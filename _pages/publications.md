@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<h3> Journals </h3>
 <ol>
   <li>
 Omais Shafi,<b> <span  style="color: Maroon;"> Mohammad Khalid Pandit</span> </b>, A Saini, Gayathri A, R Sen, ”Repercussions of Using DNN Compilers on Edge GPUs for Real Time and Safety Critical Systems: A Quantitative Audit”, in ACM Journal on Emerging Technologies in Computing Systems, 2023.
@@ -43,7 +44,19 @@ A Saini, Omkar S,<b> <span  style="color: Maroon;"> Mohammad Khalid Pandit</span
 <b> <span  style="color: Maroon;"> Mohammad Khalid Pandit</span> </b>, ”Variance Guided Structured Sparsity in Deep Neural Networks”, in  in Sparsity in Neural Networks, Advancing Understanding and Practice (SNN Workshop 2021).
 </li>
 <li>
-<b> <span  style="color: Maroon;"> Mohammad Khalid Pandit</span> </b>, ”Distributed IoT Analytics Across Edge,
+<b> <span  style="color: Maroon;"> Mohammad Khalid Pandit</span> </b>, RN Mir, MA Chishti, ”Distributed IoT Analytics Across Edge,
 Fog and Cloud", in  Fourth International Conference on Research in Computational Intelligence and Communication Networks (ICRCICN), IEEE.
 </li> 
+</ol>
+<h3> Book Chapters </h3>
+<ol>
+<li>
+ R Kodana, S R Mohammad, <b> <span  style="color: Maroon;"> Mohammad Khalid Pandit</span> </b>, R Kodana, S R Mohammad, P Parmar, S Pathaniaa, ”Internet of things in food industry", in Innovation Strategies in the Food Industry, Elsevier.
+</li>
+<li>
+AR Khan, <b> <span  style="color: Maroon;"> Mohammad Khalid Pandit</span> </b>, SA Banday, ”Improving the Security of data in IoT by performing Data Aggregation using neural network based Autoencoders",  Security and Privacy in IoT, Taylor and Francis, CRC Press.
+</li>
+<li>
+SA Banday, <b> <span  style="color: Maroon;"> Mohammad Khalid Pandit</span> </b>, ”Securing Medical Images via a Texture and Chaotic Key Framework", Multimedia Security-Algorithm development, Analysis and Applications, Springer.
+</li>
 </ol>
