@@ -14,12 +14,10 @@ Omais Shafi,<b> <span  style="color: Maroon;"> Mohammad Khalid Pandit</span> </b
 <li>
 <b> <span  style="color: Maroon;"> Mohammad Khalid Pandit</span> </b>, Mahroosh  B ”Variance Guided Structured Sparsity in Deep Neural Networks”, in IEEE Transactions on Artificial Intelligence.
 </li>
-
 <li>
 <b> <span  style="color: Maroon;"> Mohammad Khalid Pandit</span> </b>, Mahroosh  B ”Learning Sparse Neural Networks Using
 Non-Convex Regularization”, in IEEE Transactions on Emerging Topics in Computational Intelligence.
 </li>
-
   <li>
 SA Banday, <b> <span  style="color: Maroon;"> Mohammad Khalid Pandit</span> </b>, A R Khan, ”Achieving a reversible lower dimensionality transformation for picture archiving and communication system in healthcare”, in IET Electronics Letters.
 </li>
