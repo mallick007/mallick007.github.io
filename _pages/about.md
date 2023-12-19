@@ -14,8 +14,8 @@ redirect_from:
 
 <!-- {% assign join_date = "22 July 2017"|date: "%m %Y" %}	
 {% assign years = 'now'| minus : join_date  %} -->
-* I am presently working as a <b>Senior Performance Architect</b> at Qualcomm, Bangalore. Prior to it, I was working as a Senior Research Scholar at IIT Delhi.
-* My research primarily focuses on Computer Architecture, Hardware Security and exploring potential of edge GPUs in developing countries.
+* I am presently working as a <b>Assistant Professor</b> at National Institute of Technology, Hamirpur. Prior to it, I was working as Post-Doctoral Research Fellow at IIT Delhi with Prof Rijju Rekha Sen.
+* My research primarily focuses on Efficient Deep Learning, developing algorithms for efficient execution at edge, and exploring potential of edge GPUs.
 * I am part of the [SecVisor Reading Group](http://www.cse.iitd.ernet.in/~kumarsandeep/secvisor/) at IIT Delhi.
 
 
@@ -41,14 +41,14 @@ redirect_from:
 </p>
 
 ## Education
-<p class="common_list bullet_list edu_list"> PhD in Computer Science and Engineering [2016(Dec) - ]
-<br><font size="3" color="gray"> Indian Insitute of Technology Delhi, New Delhi, India</font>
+<p class="common_list bullet_list edu_list"> PhD in Computer Science and Engineering [2017(Mar) - 2021 (Aug)]
+<br><font size="3" color="gray"> National Insitute of Technology Srinagar, India</font>
 </p>
-<p class="common_list bullet_list edu_list"> Teaching Assistant [2016(August) - 2016(Nov) ]
-<br><font size="3" color="gray"> Indian Insitute of Technology Delhi, New Delhi, India</font>
+<p class="common_list bullet_list edu_list"> Master of Technology in Computer Science and Engineering [2011(Aug) - 2013(Jul) ]
+<br><font size="3" color="gray"> Anna University, Chennai</font>
 </p>
-<p class="common_list bullet_list edu_list"> Bachelor of Technology in Information Technology [2012 - 2016]
-<br><font size="3" color="gray"> National Institute of Technology(NIT) Srinagar</font>
+<p class="common_list bullet_list edu_list"> Bachelor of Technology in Computer Science and Engineering [2007 - 2011]
+<br><font size="3" color="gray"> Annamalai University, Tamil Nadu</font>
 </p>
 
 ## Teaching Assistant
