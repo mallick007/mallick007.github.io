@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://omais-shafi.github.io/images/profile.jpg" alt="Photo" style="width: 450px;"/> 
+  <img src="https://github.com/khalidpandit/.github.io/tree/master/images/photo.jpg" alt="Photo" style="width: 450px;"/> 
 </p>
 
 <!-- {% assign join_date = "22 July 2017"|date: "%m %Y" %}	
