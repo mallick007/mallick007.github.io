@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
+<p align="center"> 
   <img src="https://github.com/khalidpandit/.github.io/tree/master/images/photo.jpg" alt="Photo" style="width: 450px;"/> 
 </p>
 
