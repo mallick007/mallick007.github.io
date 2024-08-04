@@ -45,7 +45,7 @@ SA Banday, <b> <span  style="color: Black;"> Mohammad Khalid Pandit</span> </b>,
 <a href="https://sites.google.com/view/sparsity-workshop-2021/home"> [SNN-2021] </a> <b> <span  style="color: Black;"> Mohammad Khalid Pandit</span> </b>, ”Variance Guided Structured Sparsity in Deep Neural Networks”, in  in Sparsity in Neural Networks, Advancing Understanding and Practice (SNN Workshop 2021).
 </li>
 <li>
-<a href="https://ieeexplore.ieee.org/abstract/document/8718738"> ICRCICN-2018 </a> <b> <span  style="color: Black;"> Mohammad Khalid Pandit</span> </b>, RN Mir, MA Chishti, ”Distributed IoT Analytics Across Edge,
+<a href="https://ieeexplore.ieee.org/abstract/document/8718738"> [ICRCICN-2018] </a> <b> <span  style="color: Black;"> Mohammad Khalid Pandit</span> </b>, RN Mir, MA Chishti, ”Distributed IoT Analytics Across Edge,
 Fog and Cloud", in  Fourth International Conference on Research in Computational Intelligence and Communication Networks (ICRCICN), IEEE.
 </li> 
 </ol>
