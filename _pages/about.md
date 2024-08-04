@@ -20,8 +20,8 @@ redirect_from:
 
 
 ## Recent News
-<p class="common_list bullet_list edu_list">[Aug 2024] Paper of my M.Tech scholars Udit & Rishi accepted in, <a href="https://ieeedelhi-tensymp2024.org/"> IEEE TENSYMP-2024</a>.</p>
-<p class="common_list bullet_list edu_list">[Aug 2024] Paper of my M.Tech scholars Sankalp & Piyush accepted in, <a href="https://cvmi2024.iiita.ac.in/"> IEEE CVMI-2024</a>.</p>
+<p class="common_list bullet_list edu_list">[Aug 2024] Paper of M.Tech scholars Udit & Rishi accepted in, <a href="https://ieeedelhi-tensymp2024.org/"> IEEE TENSYMP-2024</a>.</p>
+<p class="common_list bullet_list edu_list">[Aug 2024] Paper of M.Tech scholars Sankalp & Piyush accepted in, <a href="https://cvmi2024.iiita.ac.in/"> IEEE CVMI-2024</a>.</p>
 <p class="common_list bullet_list edu_list">[Dec 2023]<a href="https://ieeexplore.ieee.org/abstract/document/10419280"> ACM SEC </a> "Bang for the Buck: Evaluating the cost-effectiveness of Heterogeneous Edge Platforms for Neural Network Workloads", Amarjeet Saini, Omkar B. Shende, Mohammad Khalid Pandit, Rijurekha Sen, Gayathri Ananthanarayanan in the 8th ACM/IEEE Symposium on Edge Computing.
 </p>
 </p>
