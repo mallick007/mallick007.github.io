@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Mohammad Khalid Pandit"
 title_separator          : "-"
-name                     : &name "Mohammad Khalid Pandit"
+name                     : &name ""
 description              : &description "Assistant Professor"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,39 +82,39 @@ analytics:
 author:
   name             : "Mohammad Khalid Pandit"
   avatar           : "pic11.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "Assistant Professor"
+  location         : "NIT Hamirpur"
+  employer         : "https://nith.ac.in/"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  googlescholar    : "https://scholar.google.com/citations?user=Iin9bCsAAAAJ&hl=en"
+  email            : "mkhalid[at]nith[dot]ac[dot]in"
+  researchgate     :  "https://www.researchgate.net/profile/Mohammad-Khalid-Pandit"
+  #uri              :
+  #bitbucket        :
+  #codepen          :
+  #dribbble         :
+  #flickr           :
+  #facebook         :
+  #foursquare       :
+  github           : "khalidpandit"
+  #google_plus      :
+  #keybase          :
+  #instagram        :
+  #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  #lastfm           :
+  linkedin         : "https://www.linkedin.com/in/mohammad-khalid-pandit-5b0a8a24/"
+  orcid            : "https://orcid.org/0000-0002-3755-3245"
+  #pinterest        :
+  #soundcloud       :
+  #stackoverflow    : # http://stackoverflow.com/users/123456/username
+  #steam            :
+  #tumblr           :
+  twitter          : "khalidpandit"
+  #vine             :
+  #weibo            :
+  #xing             :
+  #youtube          :
+  #wikipedia        :
 
 
 # Reading Files
