@@ -175,6 +175,9 @@ kramdown:
 
 # Collections
 collections:
+  Home:
+    output: true
+    permalink: /
   teaching:
     output: true
     permalink: /:collection/:path/
