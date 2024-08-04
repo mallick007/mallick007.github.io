@@ -15,9 +15,8 @@ redirect_from:
 <!-- {% assign join_date = "22 July 2017"|date: "%m %Y" %}	
 {% assign years = 'now'| minus : join_date  %} -->
 * I am currently working as Assistant Professor at the Department of CSE, National Institute of Technology Hamirpur. Prior to this i was working as Post-Doctral Fellow at the Department of CSE, Indian Institute of Technologvy Delhi with Professor Riju Rekha Sen.
-*  My research primarily focuses on Efficient Deep Learning, algorithm development for efficient execution at edge, and exploring potential of edge GPUs. I completed Ph.D. from NIT Srinagar under the supervision of Prof Roohie Naaz Mir and Prof Mohammad Ahsan Chishti. My Ph.D. work focused on developing efficient deep neural network models for resource constrained devices.
-* I completed Ph.D. from NIT Srinagar under the supervision of Prof Roohie Naaz Mir and Prof Mohammad Ahsan Chishti. My Ph.D. work focused on developing efficient deep neural network models for resource constrained devices..
-
+* I completed Ph.D. from NIT Srinagar under the supervision of Prof Roohie Naaz Mir and Prof Mohammad Ahsan Chishti. My Ph.D. work focused on developing efficient deep neural network models for resource constrained devices.
+*  My research primarily focuses on Efficient Deep Learning, algorithm development for efficient execution at edge, and exploring potential of edge GPUs. 
 
 ## Recent News
 <p class="common_list bullet_list edu_list">[Aug 2024] Paper of M.Tech scholars Udit & Rishi accepted in, <a href="https://ieeedelhi-tensymp2024.org/"> IEEE TENSYMP-2024</a>.</p>
