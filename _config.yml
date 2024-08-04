@@ -84,7 +84,7 @@ author:
   avatar           : "pic1.jpg"
   bio              : "Assistant Professor in CSE, NIT Hamirpur"
   #location         : "NIT Hamirpur"
-  url              : "https://portfolios.nith.ac.in/index.php/?/nith/dr-mohammad-khalid-pandit"
+  uri              : "https://portfolios.nith.ac.in/index.php/?/nith/dr-mohammad-khalid-pandit"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Iin9bCsAAAAJ&hl=en"
   email            : "mkhalid@nith.ac.in"
