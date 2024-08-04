@@ -4,8 +4,8 @@ type: categories
 title: Contact
 permalink: /contact/
 ---
-Room: A215, 1st floor,  
-Department of Computer Science and Engineering 
-National Institute of Technology Hamirpur
-Email: mkhalid[at]nith[dot]ac[dot]in
+<p>Room: A215, 1st floor,</p>  
+<p>Department of Computer Science and Engineering</p> 
+<p>National Institute of Technology Hamirpur</p>
+<p>Email: mkhalid[at]nith[dot]ac[dot]in</p>
 
