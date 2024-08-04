@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 type: categories
 title: Contact
 permalink: /contact/
