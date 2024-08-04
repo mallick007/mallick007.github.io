@@ -27,6 +27,17 @@ redirect_from:
 <p class="common_list bullet_list edu_list">[Dec 2023] Paper Published in <a href="https://dl.acm.org/doi/full/10.1145/3611016"> ACM JETC </a> "Repercussions of Using DNN Compilers on Edge GPUs for Real Time and Safety Critical Systems: A Quantitative Audit", Omais Shafi, Mohammad Khalid Pandit, Amarjeet Saini, Gayathri Ananthanarayanan, Rijurekha Sen in ACM Journal on Emerging Technologies in Computing Systems.</p>
 <p class="common_list bullet_list edu_list">[Dec 2022] Paper Published in <a href="https://ieeexplore.ieee.org/abstract/document/9947280"> IEEE TAI </a> "Variance Guided Structured Sparsity in Deep Neural Networks", Mohammad Khalid Pandit, Mahroosh Banday in IEEE Transactions on Artificial Intelligence.</p>
 
+## Work Exoerience
+<p class="common_list bullet_list edu_list"> Post Doctoral Fellow (IPDF) [2021(Dec) - 2023(Aug)]
+<br><font size="3" color="gray"> Indian Institite of Technology Delhi, India</font>
+</p>
+<p class="common_list bullet_list edu_list"> Assistant Professor (TEQIP-III) [2018(Aug) - 2021(Nov ) ]
+<br><font size="3" color="gray"> Islamic University of Science & Technology, J&K</font>
+</p>
+<p class="common_list bullet_list edu_list"> Assistant Professor (Contract) [2013 (Aug) - 2017(Mar)]
+<br><font size="3" color="gray"> National Institute of Technology, Srinagar</font>
+</p>
+
 ## Education
 <p class="common_list bullet_list edu_list"> PhD in Computer Science and Engineering [2017(Mar) - 2021(Aug)]
 <br><font size="3" color="gray"> National Insitute of Technology Srinagar, India</font>
@@ -37,6 +48,7 @@ redirect_from:
 <p class="common_list bullet_list edu_list"> Bachelor of Technology in Computer Science and Engineering [2007 - 2011]
 <br><font size="3" color="gray"> Annamalai University, Tamil Nadu</font>
 </p>
+
 <!--
 ## Teaching Assistant
 *  <a href="http://www.cse.iitd.ac.in/~subodh/courses/COL100/"> Introduction to Computer Science (COL100)</a>
