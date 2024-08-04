@@ -3,7 +3,7 @@ layout: page
 title: Deep Learning CS-661
 permalink: /dl/
 ---
-<h3>DeeP Learning CS-661</h3>
+<h3>Deep Learning CS-661</h3>
 <ol>
  <h3> Pre-requisites </h3> 
 There are no official pre-requisites for this course.
