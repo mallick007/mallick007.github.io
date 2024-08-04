@@ -14,7 +14,7 @@ There are no official pre-requisites for this course.
     <b> <span  style="color: Maroon;"> Wednesday</span> </b>: 11:00 - 12:00 &#10;&#13;
     <b> <span  style="color: Maroon;"> Thursday</span> </b>: 11:00 - 12:00 &#10;&#13;
     <b> <span  style="color: Maroon;"> Friday</span> </b>: 9:00 - 10:00 &#10;&#13;
-<\ul>
+</ul>
  </ol>
  <ol>
  <h3> Contents </h3>
