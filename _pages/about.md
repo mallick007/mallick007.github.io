@@ -24,9 +24,7 @@ redirect_from:
 <p class="common_list bullet_list edu_list">[Aug 2024] Paper of M.Tech scholars Sankalp & Piyush accepted in, <a href="https://cvmi2024.iiita.ac.in/"> IEEE CVMI-2024</a>.</p>
 <p class="common_list bullet_list edu_list">[Dec 2023]<a href="https://ieeexplore.ieee.org/abstract/document/10419280"> ACM SEC </a> "Bang for the Buck: Evaluating the cost-effectiveness of Heterogeneous Edge Platforms for Neural Network Workloads", Amarjeet Saini, Omkar B. Shende, Mohammad Khalid Pandit, Rijurekha Sen, Gayathri Ananthanarayanan in the 8th ACM/IEEE Symposium on Edge Computing.
 </p>
-</p>
 <p class="common_list bullet_list edu_list">[Aug 2023] <b>Joined CSE Department, <a href="https://nith.ac.in"> National Institute of Technology Hamirpur</a> as Assistant Professor.</b>
-</p>
 </p>
 <p class="common_list bullet_list edu_list">[Dec 2023]<a href="https://dl.acm.org/doi/full/10.1145/3611016"> ACM JETC </a> "Repercussions of Using DNN Compilers on Edge GPUs for Real Time and Safety Critical Systems: A Quantitative Audit", Omais Shafi, Mohammad Khalid Pandit, Amarjeet Saini, Gayathri Ananthanarayanan, Rijurekha Sen in ACM Journal on Emerging Technologies in Computing Systems.
 </p>
