@@ -83,7 +83,7 @@ author:
   name             : "Mohammad Khalid Pandit"
   avatar           : "pic1.jpg"
   bio              : "Assistant Professor, NIT Hamirpur"
-  location         : "NIT Hamirpur"
+  #location         : "NIT Hamirpur"
   employer         : "https://nith.ac.in/"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Iin9bCsAAAAJ&hl=en"
