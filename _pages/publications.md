@@ -10,7 +10,7 @@ author_profile: true
 <a href="https://dl.acm.org/doi/full/10.1145/3611016"> [ACM JETC] </a> Omais Shafi,<b> <span  style="color: Maroon;"> Mohammad Khalid Pandit</span> </b>, A Saini, Gayathri A, R Sen, ”Repercussions of Using DNN Compilers on Edge GPUs for Real Time and Safety Critical Systems: A Quantitative Audit”, in ACM Journal on Emerging Technologies in Computing Systems, 2023.
   </li>
 <li>
-<a href="https://ieeexplore.ieee.org/abstract/document/9947280"> [IEEE TAI] </a> b> <span  style="color: Maroon;"> Mohammad Khalid Pandit</span> </b>, Mahroosh  B, ”Variance Guided Structured Sparsity in Deep Neural Networks”, in IEEE Transactions on Artificial Intelligence.
+<a href="https://ieeexplore.ieee.org/abstract/document/9947280"> [IEEE TAI] </a> <b> <span  style="color: Maroon;"> Mohammad Khalid Pandit</span> </b>, Mahroosh  B, ”Variance Guided Structured Sparsity in Deep Neural Networks”, in IEEE Transactions on Artificial Intelligence.
 </li>
 <li>
 <a href="https://ieeexplore.ieee.org/abstract/document/9372948"> [IEEE TETCI] </a> <b> <span  style="color: Maroon;"> Mohammad Khalid Pandit</span> </b>, Roohie Naaz Mir, Mohammad Ahsan Chishti, ”Learning Sparse Neural Networks Using
