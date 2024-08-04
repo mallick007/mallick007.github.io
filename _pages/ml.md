@@ -6,7 +6,6 @@ permalink: /ml/
 <center><h2>Mathematics for Machine Learning CS-632</h2></center>
 <ol>
  <h3> Pre-requisites </h3> 
- <h3> Pre-requisites </h3> 
 There are no official pre-requisites for this course.
   <h3> Venue: CSE Department Conference Hall (2nd floor) </h3> 
 <h4>    Time Slot: &#10;&#13; </h4>
