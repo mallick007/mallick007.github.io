@@ -18,7 +18,7 @@ There are no official pre-requisites for this course.
 <\ul>
  </ol>
  <ol>
- <h4> Contents </h4>
+ <h3> Contents </h3>
   <li>
     Probability Theory, Linear Algebra, Convex Optimization
   </li>
