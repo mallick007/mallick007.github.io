@@ -28,6 +28,9 @@ redirect_from:
 <p class="common_list bullet_list edu_list">[Dec 2022] Paper Published in <a href="https://ieeexplore.ieee.org/abstract/document/9947280"> IEEE TAI </a> "Variance Guided Structured Sparsity in Deep Neural Networks", Mohammad Khalid Pandit, Mahroosh Banday in IEEE Transactions on Artificial Intelligence.</p>
 
 ## Work Exoerience
+<p class="common_list bullet_list edu_list"> Assistant Professor (Grade-II) [2023(Aug) - Present]
+<br><font size="3" color="gray"> National Institite of Technology Hamirpur, India</font>
+</p>
 <p class="common_list bullet_list edu_list"> Post Doctoral Fellow (IPDF) [2021(Dec) - 2023(Aug)]
 <br><font size="3" color="gray"> Indian Institite of Technology Delhi, India</font>
 </p>
