@@ -27,5 +27,5 @@ Udit Sehra (M.tech AI-2025)
 
  <ol>
  <h3> Past Students </h3> 
-<li> Sarthak Bhardwaj (M.tech DD-2024)-currently working in Striker Inc </li>
+<p> Sarthak Bhardwaj (M.tech DD-2024)-currently working in Striker Inc <p>
  </ol>
