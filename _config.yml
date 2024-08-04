@@ -85,9 +85,9 @@ author:
   bio              : "Assistant Professor"
   location         : "NIT Hamirpur"
   employer         : "https://nith.ac.in/"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Iin9bCsAAAAJ&hl=en"
-  email            : "mkhalid[at]nith[dot]ac[dot]in"
+  email            : "mkhalid@nith.ac.in"
   researchgate     :  "https://www.researchgate.net/profile/Mohammad-Khalid-Pandit"
   #uri              :
   #bitbucket        :
@@ -180,7 +180,7 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /publications/
+    permalink: /_pages/publications/
   portfolio:
     output: true
     permalink: /:collection/:path/
