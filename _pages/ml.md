@@ -3,7 +3,7 @@ layout: page
 title: Mathematics for Machine Learning CS-632
 permalink: /ml/
 ---
-<h3>Mathematics for Machine Learning CS-632</h3>
+<center><h2>Mathematics for Machine Learning CS-632</h2></center>
 <ol>
  <h3> Pre-requisites </h3> 
  <h3> Pre-requisites </h3> 
