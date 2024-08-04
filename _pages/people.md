@@ -5,9 +5,6 @@ permalink: /people/
 ---
 <ol>
  <h3> M.Tech </h3> 
-  <li>
-Sarthak Bhardwaj (M.tech DD-2024)
-  </li>
 <li>
 Udit Sehra (M.tech AI-2025)
 </li>
@@ -26,4 +23,9 @@ Udit Sehra (M.tech AI-2025)
 </ol>
 <ol>
  <h3> B.Tech </h3>
+ </ol>
+
+ <ol>
+ <h3> Past Students </h3> 
+<li> Sarthak Bhardwaj (M.tech DD-2024)-currently working in Striker Inc </li>
  </ol>
