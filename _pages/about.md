@@ -8,40 +8,33 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center"> 
-  <img src="https://github.com/khalidpandit/.github.io/tree/master/images/photo.jpg" alt="Photo" style="width: 250px;"/> 
-</p>
+#<p align="center"> 
+#  <img src="https://github.com/khalidpandit/.github.io/tree/master/images/photo.jpg" alt="Photo" style="width: 250px;"/> 
+#</p>
 
 <!-- {% assign join_date = "22 July 2017"|date: "%m %Y" %}	
 {% assign years = 'now'| minus : join_date  %} -->
-* I am presently working as a <b>Assistant Professor</b> at National Institute of Technology, Hamirpur. Prior to it, I was working as Post-Doctoral Research Fellow at IIT Delhi with Prof Rijju Rekha Sen.
-* My research primarily focuses on Efficient Deep Learning, developing algorithms for efficient execution at edge, and exploring potential of edge GPUs.
-* I am part of the [SecVisor Reading Group](http://www.cse.iitd.ernet.in/~kumarsandeep/secvisor/) at IIT Delhi.
+* I am currently working as Assistant Professor at the Department of CSE, National Institute of Technology Hamirpur. Prior to this i was working as Post-Doctral Fellow at the Department of CSE, Indian Institute of Technologvy Delhi with Professor Riju Rekha Sen.
+*  My research primarily focuses on Efficient Deep Learning, algorithm development for efficient execution at edge, and exploring potential of edge GPUs. I completed Ph.D. from NIT Srinagar under the supervision of Prof Roohie Naaz Mir and Prof Mohammad Ahsan Chishti. My Ph.D. work focused on developing efficient deep neural network models for resource constrained devices.
+* I completed Ph.D. from NIT Srinagar under the supervision of Prof Roohie Naaz Mir and Prof Mohammad Ahsan Chishti. My Ph.D. work focused on developing efficient deep neural network models for resource constrained devices..
 
 
 ## Recent News
-<p class="common_list bullet_list edu_list">[June 2022] <b>Attended the ICTD and COMPASS conference in Seattle, US. Presented our paper "DynCNN: Application Dynamism and Ambient Temperature Aware Neural Network Scheduler in Edge Devices for Traffic Control"</b> in COMPASS.
+<p class="common_list bullet_list edu_list">[Aug 2024] Paper of my M.Tech scholars Udit & Rishi accepted in, <a href="https://ieeedelhi-tensymp2024.org/"> IEEE TENSYMP-2024</a>.</p>
+<p class="common_list bullet_list edu_list">[Aug 2024] Paper of my M.Tech scholars Sankalp & Piyush accepted in, <a href="https://cvmi2024.iiita.ac.in/"> IEEE CVMI-2024</a>.</p>
+<p class="common_list bullet_list edu_list">[Dec 2023]<a href="https://ieeexplore.ieee.org/abstract/document/10419280"> ACM SEC </a> "Bang for the Buck: Evaluating the cost-effectiveness of Heterogeneous Edge Platforms for Neural Network Workloads", Amarjeet Saini, Omkar B. Shende, Mohammad Khalid Pandit, Rijurekha Sen, Gayathri Ananthanarayanan in the 8th ACM/IEEE Symposium on Edge Computing.
 </p>
-<p class="common_list bullet_list edu_list">[June 2022] <b>Travel grant has been approved by ACM for our DynCNN Paper.</b>
 </p>
-<p class="common_list bullet_list edu_list">[April 2022] Our paper titled <b> "DynCNN: Application Dynamism and Ambient Temperature Aware Neural Network Scheduler in Edge Devices for Traffic Control"</b> got accepted in <i>ACM COMPASS 2022 </i>
-<p class="common_list bullet_list edu_list">[Sept 2021] Our paper titled <b> "Demystifying TensorRT: Characterizing Neural Network Inference Engine on Nvidia Edge Devices"</b> got accepted in <i>IEEE International Symposium on Workload Characterization (IISWC 2021). </i>
+<p class="common_list bullet_list edu_list">[Aug 2023] <b>Joined CSE Department, <a href="https://nith.ac.in"> National Institute of Technology Hamirpur</a> as Assistant Professor.</b>
 </p>
-<p class="common_list bullet_list edu_list">[July 2021] Our paper titled <b> "FreqCounter: Efficient Cacheability of Encryption and Integrity Tree Counters in Secure Processors"</b> got accepted in <i>Journal of System Architecture (JSA). </i>
 </p>
-<p class="common_list bullet_list edu_list">[May 2021] <b>Travel grant has been approved by ACM-India IARCS for the CuckoOnsai Paper.</b>
+<p class="common_list bullet_list edu_list">[Dec 2023]<a href="https://dl.acm.org/doi/full/10.1145/3611016"> ACM JETC </a> "Repercussions of Using DNN Compilers on Edge GPUs for Real Time and Safety Critical Systems: A Quantitative Audit", Omais Shafi, Mohammad Khalid Pandit, Amarjeet Saini, Gayathri Ananthanarayanan, Rijurekha Sen in ACM Journal on Emerging Technologies in Computing Systems.
 </p>
-<p class="common_list bullet_list edu_list">[Feb 2021] Our paper titled <b> "CuckoOnsai: An Efficient Memory Authentication using Amalgam of Cuckoo Filters and Integrity Trees"</b> got accepted in <i>Design Automation Conference (DAC)</i> 2021.
-</p>
-<p class="common_list bullet_list edu_list">[Oct 2020] Presented our work, <b> "SecSched: Flexible Scheduling in Secure Processors"</b>, virtually in <i>PACT</i> 2020.
-</p>
-<p class="common_list bullet_list edu_list">[July 2020] Our paper titled <b> "SecSched: Flexible Scheduling in Secure Processors"</b> got accepted in <i>PACT</i> 2020.
-</p>
-<p class="common_list bullet_list edu_list">[Dec 2019] Presented our work, <b>"SecSched: Flexible Scheduling in Secure Processors"</b>, at IIT Delhi, Phd Symposium 2019.
+<p class="common_list bullet_list edu_list">[Dec 2022]<a href="https://ieeexplore.ieee.org/abstract/document/9947280"> IEEE TAI </a> "VAriance Guided Structured Sparsity in Deep Neural Networks", Mohammad Khalid Pandit, Mahroosh Banday in IEEE Transactions on Artificial Intelligence.
 </p>
 
 ## Education
-<p class="common_list bullet_list edu_list"> PhD in Computer Science and Engineering [2017(Mar) - 2021 (Aug)]
+<p class="common_list bullet_list edu_list"> PhD in Computer Science and Engineering [2017(Mar) - 2021(Aug)]
 <br><font size="3" color="gray"> National Insitute of Technology Srinagar, India</font>
 </p>
 <p class="common_list bullet_list edu_list"> Master of Technology in Computer Science and Engineering [2011(Aug) - 2013(Jul) ]
