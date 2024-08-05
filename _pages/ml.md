@@ -8,7 +8,7 @@ permalink: /ml/
  <h3> Pre-requisites </h3> 
 There are no official pre-requisites for this course.
   <h3> Venue: CSE Department Conference Hall (2nd floor) </h3> 
-<h4>    Time Slot: &#10;&#13; </h4>
+<h3>    Time Slot: &#10;&#13; </h3>
 <ul>
     <b> <span  style="color: Maroon;"> Monday</span> </b>: 11:00 - 12:00 &#10;&#13;
     <b> <span  style="color: Maroon;"> Wednesday</span> </b>: 11:00 - 12:00 &#10;&#13;
