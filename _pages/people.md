@@ -24,7 +24,7 @@ Atul Sharma (M.Tech DD-2025)
 Malika Sood (Dual Degree-CSE 2024)
 </li>
  <li>
- Ajay Kumar M.tech CSE 2024)
+ Ajay Kumar (M.tech CSE 2024)
  </li>
 
 </ol>
