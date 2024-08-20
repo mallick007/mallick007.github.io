@@ -4,4 +4,4 @@ type: cv
 title: Curriculm vitae
 permalink: /cv/
 ---
-<p> <a href="/Khalid_CV.pdf"> Resume </a>.</p>
+<p> <a href="/ajay_CV.pdf"> Resume </a>.</p>
