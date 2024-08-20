@@ -43,14 +43,15 @@ redirect_from:
 </p>
 
 ## Education
-<p class="common_list bullet_list edu_list"> PhD in Computer Science and Engineering [2017(Mar) - 2021(Aug)]
-<br><font size="3" color="gray"> National Insitute of Technology Srinagar, India</font>
+
+<p class="common_list bullet_list edu_list"> PhD in Computer Science and Engineering  [Feb. 2016- September, 2022]
+<br><font size="3" color="gray"> Indian Institute of Technology (Indian School of Mines), Dhanbad, Jharkhand-826004, India.</font>
 </p>
-<p class="common_list bullet_list edu_list"> Master of Technology in Computer Science and Engineering [2011(Aug) - 2013(Jul) ]
-<br><font size="3" color="gray"> Anna University, Chennai</font>
+<p class="common_list bullet_list edu_list"> Master of Technology in Computer Science and Engineering [July 2013(july) - July 2015]
+<br><font size="3" color="gray"> Indian Institute of Technology (Indian School of Mines), Dhanbad, Jharkhand-826004, India.</font>
 </p>
-<p class="common_list bullet_list edu_list"> Bachelor of Technology in Computer Science and Engineering [2007 - 2011]
-<br><font size="3" color="gray"> Annamalai University, Tamil Nadu</font>
+<p class="common_list bullet_list edu_list"> Bachelor of Engineering in Computer Science and Engineering [July 2009 - July 2013]
+<br><font size="3" color="gray"> University Institute of Technology, Burdwan, West Bengal, India</font>
 </p>
 
 
