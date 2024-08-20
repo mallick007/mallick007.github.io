@@ -34,4 +34,4 @@ Malika Sood (Dual Degree-CSE 2024)
 
  <ol>
  <h3> Past Students </h3> 
-<p> Sarthak Bhardwaj (M.tech DD-2024)-currently working in Striker Inc </p> </ol>
+<p> .... </p> </ol>
