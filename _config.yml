@@ -11,9 +11,9 @@ title                    : "Mohammad Khalid Pandit"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "Assistant Professor, NIT Hamirpur"
-url                      : https://khalidpandit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ajaymallick.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
-repository               : "https://khalidpandit.github.io"
+repository               : "https://ajaymallick.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &khalidpandit
+  username               : &ajaymallick
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohammad Khalid Pandit"
+  name             : "Ajay Kumar Mallick"
   avatar           : "pic1.jpg"
   bio              : "Assistant Professor CSE, NIT Hamirpur"
   #location         : "NIT Hamirpur"
   uri              : "https://portfolios.nith.ac.in/index.php/?/nith/dr-mohammad-khalid-pandit"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=Iin9bCsAAAAJ&hl=en"
-  email            : "mkhalid@nith.ac.in"
+  googlescholar    : https://scholar.google.com/citations?user=tNA_6VYAAAAJ&hl=en&oi=ao"
+  email            : "ajaymallick@nith.ac.in"
   researchgate     :  "https://www.researchgate.net/profile/Mohammad-Khalid-Pandit"
   #bitbucket        :
   #codepen          :
@@ -101,8 +101,8 @@ author:
   #instagram        :
   #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   #lastfm           :
-  linkedin         : "https://www.linkedin.com/in/mohammad-khalid-pandit-5b0a8a24/"
-  orcid            : "https://orcid.org/0000-0002-3755-3245"
+  linkedin         : "https://www.linkedin.com/in/dr-ajay-kumar-mallick-197b19186/"
+  orcid            : "https://orcid.org/0000-0002-9730-3694"
   #pinterest        :
   #soundcloud       :
   #stackoverflow    : # http://stackoverflow.com/users/123456/username
