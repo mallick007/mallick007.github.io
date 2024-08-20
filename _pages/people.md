@@ -6,20 +6,27 @@ permalink: /people/
 <ol>
  <h3> M.Tech </h3> 
 <li>
-Udit Sehra (M.tech AI-2025)
+Sakshi (MTech-CSE 2024)
 </li>
  <li>
- Rishi Raj Dutta (M.tech AI-2025)
+ Nidhi Singh ( M.tech CSE 2024)
  </li>
  <li>
-  Akhilesh (M.tech CSE-2025)
+Atul Sharma (M.Tech DD-2025)
  </li>
  <li>
- Piyush Kumar (M.Tech DD-2025)
+ Sameer Mirza (M.Tech DD-2025)
  </li>
+<li>
+  Sourabh Sharma (M.tech CSE-2025)
+ </li>
+<li>
+Malika Sood (Dual Degree-CSE 2024)
+</li>
  <li>
- Sanklap Gupta (M.Tech DD-2025)
+ Ajay Kumar M.tech CSE 2024)
  </li>
+
 </ol>
 <ol>
  <h3> B.Tech </h3>
