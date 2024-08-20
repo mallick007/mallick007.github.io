@@ -7,16 +7,16 @@ author_profile: true
 <h3> Journals </h3>
 <ol>
     
-  <li>
-<b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, Susanta Mukhopadhyay, ”Video retrieval using salient foreground region of motion vector based extracted keyframes and spatial pyramid matching”, in Multimedia Tools and Applications (Springer), 2020.
-  </li>
+ 
 <li>
 <b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, Susanta Mukhopadhyay, ”Video Retrieval Framework based on Color Co-occurrence Feature of Adaptive Low Rank Extracted Keyframes and Graph Pattern Matching,”, in Information Processing & Management (Elsevier), 2022.
 </li>
 <li>
 Mukul Majhi,<b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>”Random Projection and Hashing based Privacy Preserving for Image Retrieval Paradigm using Invariant and Clustered Feature”, in Journal of King Saud University-Computer and Information Sciences(Elsevier), 2022.
 </li>
-
+ <li>
+<b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, Susanta Mukhopadhyay, ”Video retrieval using salient foreground region of motion vector based extracted keyframes and spatial pyramid matching”, in Multimedia Tools and Applications (Springer), 2020.
+  </li>
 
 </ol>
  <h3> Conferences </h3>
