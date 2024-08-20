@@ -7,30 +7,16 @@ author_profile: true
 <h3> Journals </h3>
 <ol>
   <li>
-Omais Shafi,<b> <span  style="color: Maroon;"> Ajay Mallick</span> </b>, A Saini, Gayathri A, R Sen, ”Repercussions of Using DNN Compilers on Edge GPUs for Real Time and Safety Critical Systems: A Quantitative Audit”, in ACM Journal on Emerging Technologies in Computing Systems, 2023.
+<b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, Susanta Mukhopadhyay, ”Video retrieval using salient foreground region of motion vector based extracted keyframes and spatial pyramid matching”, in Multimedia Tools and Applications (Springer), 2020.
   </li>
 <li>
-<b> <span  style="color: Maroon;"> Mohammad Khalid Pandit</span> </b>, Mahroosh  B, ”Variance Guided Structured Sparsity in Deep Neural Networks”, in IEEE Transactions on Artificial Intelligence.
+<b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, Susanta Mukhopadhyay, ”Video Retrieval Framework based on Color Co-occurrence Feature of Adaptive Low Rank Extracted Keyframes and Graph Pattern Matching,”, in Information Processing & Management (Elsevier), 2022.
 </li>
 <li>
-<b> <span  style="color: Maroon;"> Mohammad Khalid Pandit</span> </b>, Mahroosh  B ”Learning Sparse Neural Networks Using
-Non-Convex Regularization”, in IEEE Transactions on Emerging Topics in Computational Intelligence.
+Mukul Majhi,<b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>”Random Projection and Hashing based Privacy Preserving for Image Retrieval Paradigm using Invariant and Clustered Feature”, in Journal of King Saud University-Computer and Information Sciences(Elsevier), 2022.
 </li>
-  <li>
-SA Banday, <b> <span  style="color: Maroon;"> Mohammad Khalid Pandit</span> </b>, A R Khan, ”Achieving a reversible lower dimensionality transformation for picture archiving and communication system in healthcare”, in IET Electronics Letters.
-</li>
-<li>
-SA Banday, <b> <span  style="color: Maroon;"> Mohammad Khalid Pandit</span> </b>, ”Texture maps and chaotic maps framework for secure medical image transmission”, in Multimedia Tools and Applications.
-</li>
-<li>
-<b> <span  style="color: Maroon;"> Mohammad Khalid Pandit</span> </b>, SA Banday,  RN Mir, MA Chishti, ”Automatic Detection of COVID-19 from Chest Radiographs using Deep Learning”, in Radiography (Elsevier).
-</li>
-<li>
-<b> <span  style="color: Maroon;"> Mohammad Khalid Pandit</span> </b>, RN Mir, MA Chishti, ”Adaptive task scheduling in IoT using reinforcement learning”, in International Journal of Intelligent Computing and Cybernetics.
-</li>
-<li>
-<b> <span  style="color: Maroon;"> Mohammad Khalid Pandit</span> </b>, RN Mir, MA Chishti, ”Adaptive Deep Neural Networks for the Internet of Things”, in International Journal of Sensors, Wireless Communications and Control.
-</li>
+
+
 </ol>
  <h3> Conferences </h3>
   <ol>
