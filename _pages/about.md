@@ -55,4 +55,4 @@ redirect_from:
 
 
 
-<font size="2" color="gray">This page was last updated on {{ "now" | date: "%d-%B-%Y" }}.</font>
+
