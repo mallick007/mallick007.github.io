@@ -14,9 +14,10 @@ redirect_from:
 
 <!-- {% assign join_date = "22 July 2017"|date: "%m %Y" %}	
 {% assign years = 'now'| minus : join_date  %} -->
-* I am currently working as Assistant Professor at the Department of CSE, National Institute of Technology Hamirpur. Prior to this i was working as Post-Doctral Fellow at the Department of CSE, Indian Institute of Technologvy Delhi with Professor Riju Rekha Sen.
-* I completed Ph.D. from NIT Srinagar under the supervision of Prof Roohie Naaz Mir and Prof Mohammad Ahsan Chishti. My Ph.D. work focused on developing efficient deep neural network models for resource constrained devices.
-*  My research primarily focuses on Efficient Deep Learning, algorithm development for efficient execution at edge, and exploring potential of edge GPUs. 
+* In the National Institute of Technology, Hamirpur, I am an Assistant Professor in the Department of Computer Science and Engineering.
+* I  received his Ph.D. and M. Tech. degree from the Indian Institute of Technology (Indian School of Mines), Dhanbad, India, Department of Computer Science & Engineering.
+* I am a life member of the Indian Unit for Pattern Recognition and Artificial Intelligence (IUPRAI) and a member of several other technical professional organizations, including IEEE.
+*  Digital image security and analysis, content-based image and video retrieval, computer vision, and machine learning are some of his areas of interest and research and have contributed to and reviewed papers for numerous highly esteemed international conferences and Science Citation Indexed Journals (SCI).
 
 ## Recent News
 <p class="common_list bullet_list edu_list">[Aug 2024] Paper of M.Tech scholars Udit & Rishi accepted in, <a href="https://ieeedelhi-tensymp2024.org/"> IEEE TENSYMP-2024</a>.</p>
