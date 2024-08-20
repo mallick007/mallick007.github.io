@@ -6,9 +6,7 @@ author_profile: true
 ---
 <h3> Journals </h3>
 <ol>
-    <li>
-  Malika Sood, Jyoti Srivastava, <b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, “Revolutionizing Tomato Agriculture: Leaf Disease Detection Using CNN and Its Variants”, IEEE 9th International Conference for Convergence in Technology (I2CT)¸ 2024.
-      </li>
+    
   <li>
 <b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, Susanta Mukhopadhyay, ”Video retrieval using salient foreground region of motion vector based extracted keyframes and spatial pyramid matching”, in Multimedia Tools and Applications (Springer), 2020.
   </li>
@@ -23,6 +21,9 @@ Mukul Majhi,<b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>”
 </ol>
  <h3> Conferences </h3>
   <ol>
+<li>
+  Malika Sood, Jyoti Srivastava, <b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, “Revolutionizing Tomato Agriculture: Leaf Disease Detection Using CNN and Its Variants”, IEEE 9th International Conference for Convergence in Technology (I2CT)¸ 2024.
+      </li>
   <li>
 <b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, and Susanta Mukhopadhyay, “Video Retrieval based on Motion Vector Key Frame Extraction and Spatial Pyramid Matching”, 6th
 International Conference on Signal Processing and Integrated Networks (SPIN),
