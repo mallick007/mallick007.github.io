@@ -36,21 +36,6 @@ Based on Spatio Temporal Pattern Tree,”Proceedings of 2nd International Confer
 on Computer Vision & Image Processing, Springer, pp.173-186, DOI: https://
 doi.org/10.1007/978-981-10-7895-8_14, (2018).
 </li>
-
-<li>
-<b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, and Sushila Maheshkar, “Video Retrieval Based on Color
-Correlation Histogram Scheme of Clip Segmented Key Frames,”Fourth International
-Conference on Parallel, Distributed and Grid Computing (PDGC), IEEE, pp.213-218,
-DOI: 10.1109/PDGC.2016.7913148, (2016).
-</li>
-
-<li>
- <b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, and Sushila Maheshkar. “Digital image watermarking
-scheme based on visual cryptography and SVD”, In Proceedings of the 4th
-International Conference on Frontiers in Intelligent Computing: Theory and Applications
-(FICTA) 2015, Springer, pp. 589-598, DOI:https://doi.org/10.1007/
-978-81-322-2695-6_50, (2016).
-</li>
 <li>
  Aniket Ninawe, <b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, Vikash Yadav, Hifzan Ahmad, Dinesh Kumar
 Sah, and Cornel Barna. “Cathedral and Indian Mughal Monument Recognition
@@ -72,4 +57,19 @@ Conference on Research in Computational Intelligence and Communication
 Networks (ICRCICN), IEEE,pp. 163-168, DOI:10.1109/ICRCICN.2017.8234500,
 (2017)
 </li>
+<li>
+<b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, and Sushila Maheshkar, “Video Retrieval Based on Color
+Correlation Histogram Scheme of Clip Segmented Key Frames,”Fourth International
+Conference on Parallel, Distributed and Grid Computing (PDGC), IEEE, pp.213-218,
+DOI: 10.1109/PDGC.2016.7913148, (2016).
+</li>
+
+<li>
+ <b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, and Sushila Maheshkar. “Digital image watermarking
+scheme based on visual cryptography and SVD”, In Proceedings of the 4th
+International Conference on Frontiers in Intelligent Computing: Theory and Applications
+(FICTA) 2015, Springer, pp. 589-598, DOI:https://doi.org/10.1007/
+978-81-322-2695-6_50, (2016).
+</li>
+
 
