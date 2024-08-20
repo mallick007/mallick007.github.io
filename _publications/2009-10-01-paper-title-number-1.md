@@ -7,7 +7,7 @@ author_profile: true
 <h3> Journals </h3>
 <ol>
   <li>
-Omais Shafi,<b> <span  style="color: Maroon;"> Mohammad Khalid Pandit</span> </b>, A Saini, Gayathri A, R Sen, ”Repercussions of Using DNN Compilers on Edge GPUs for Real Time and Safety Critical Systems: A Quantitative Audit”, in ACM Journal on Emerging Technologies in Computing Systems, 2023.
+Omais Shafi,<b> <span  style="color: Maroon;"> Ajay Mallick</span> </b>, A Saini, Gayathri A, R Sen, ”Repercussions of Using DNN Compilers on Edge GPUs for Real Time and Safety Critical Systems: A Quantitative Audit”, in ACM Journal on Emerging Technologies in Computing Systems, 2023.
   </li>
 <li>
 <b> <span  style="color: Maroon;"> Mohammad Khalid Pandit</span> </b>, Mahroosh  B, ”Variance Guided Structured Sparsity in Deep Neural Networks”, in IEEE Transactions on Artificial Intelligence.
