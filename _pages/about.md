@@ -32,15 +32,13 @@ redirect_from:
 <p class="common_list bullet_list edu_list"> Assistant Professor (Grade-II) [2023(Aug) - Present]
 <br><font size="3" color="gray"> National Institite of Technology Hamirpur, India</font>
 </p>
-<p class="common_list bullet_list edu_list"> Post Doctoral Fellow (IPDF) [2021(Dec) - 2023(Aug)]
-<br><font size="3" color="gray"> Indian Institite of Technology Delhi, India</font>
+<p class="common_list bullet_list edu_list"> Assistnat Professor [2022(June) - 2023(May)]
+<br><font size="3" color="gray"> VIT-AP University, India</font>
 </p>
-<p class="common_list bullet_list edu_list"> Assistant Professor (TEQIP-III) [2018(Aug) - 2021(Nov ) ]
+<p class="common_list bullet_list edu_list"> Teaching Personal [2015(Aug) - 2015(Dec ) ]
 <br><font size="3" color="gray"> Islamic University of Science & Technology, J&K</font>
 </p>
-<p class="common_list bullet_list edu_list"> Assistant Professor (Contract) [2013 (Aug) - 2017(Mar)]
-<br><font size="3" color="gray"> National Institute of Technology, Srinagar</font>
-</p>
+
 
 ## Education
 
