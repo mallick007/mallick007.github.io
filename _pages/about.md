@@ -36,7 +36,7 @@ redirect_from:
 <br><font size="3" color="gray"> VIT-AP University, India</font>
 </p>
 <p class="common_list bullet_list edu_list"> Teaching Personal [2015(Aug) - 2015(Dec ) ]
-<br><font size="3" color="gray"> Islamic University of Science & Technology, J&K</font>
+<br><font size="3" color="gray">G. B. Pant University of Agriculture and Technology, Uttrakhand, India</font>
 </p>
 
 
