@@ -28,7 +28,7 @@ redirect_from:
 <p class="common_list bullet_list edu_list">[Dec 2023] Paper Published in <a href="https://dl.acm.org/doi/full/10.1145/3611016"> ACM JETC </a> "Repercussions of Using DNN Compilers on Edge GPUs for Real Time and Safety Critical Systems: A Quantitative Audit", Omais Shafi, Mohammad Khalid Pandit, Amarjeet Saini, Gayathri Ananthanarayanan, Rijurekha Sen in ACM Journal on Emerging Technologies in Computing Systems.</p>
 <p class="common_list bullet_list edu_list">[Dec 2022] Paper Published in <a href="https://ieeexplore.ieee.org/abstract/document/9947280"> IEEE TAI </a> "Variance Guided Structured Sparsity in Deep Neural Networks", Mohammad Khalid Pandit, Mahroosh Banday in IEEE Transactions on Artificial Intelligence.</p>
 
-## Work Exoerience
+## Work Experience
 <p class="common_list bullet_list edu_list"> Assistant Professor (Grade-II) [2023(Aug) - Present]
 <br><font size="3" color="gray"> National Institite of Technology Hamirpur, India</font>
 </p>
@@ -53,17 +53,6 @@ redirect_from:
 <br><font size="3" color="gray"> Annamalai University, Tamil Nadu</font>
 </p>
 
-<!--
-## Teaching Assistant
-*  <a href="http://www.cse.iitd.ac.in/~subodh/courses/COL100/"> Introduction to Computer Science (COL100)</a>
-* <a> Computer Architecture (COL216) </a>
-* <a>Digital Logic and System Design (COL215) </a>
-* <a>Cloud Computing (COL733) </a>
-* <a href="http://www.cse.iitd.ernet.in/~amitk/SemII-2018/main.html">Data Structures (COL106) </a>
-* <a>Software Lab </a>
-* <a> Computer Architecture (COL216) </a>
-* <a> Data Structures(COL106) </a>
--->
 
 
 <font size="2" color="gray">This page was last updated on {{ "now" | date: "%d-%B-%Y" }}.</font>
