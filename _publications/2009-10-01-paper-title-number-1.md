@@ -21,7 +21,10 @@ Mukul Majhi,<b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>”
  <h3> Conferences </h3>
   <ol>
   <li>
-A Saini, Omkar S,<b> <span  style="color: Maroon;"> Mohammad Khalid Pandit</span> </b>, R Sen, Gayathri A ”Bang for the Buck: Evaluating the cost-effectiveness of Heterogeneous Edge Platforms for Neural Network Workloads" in ACM/IEEE Symposium on Edge Computing (SEC) 2023 Dallas Texas, US.
+<b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, and Susanta Mukhopadhyay, “Video Retrieval based on Motion Vector Key Frame Extraction and Spatial Pyramid Matching”, 6th
+International Conference on Signal Processing and Integrated Networks (SPIN),
+IEEE, pp.687-692, DOI: 10.1109/SPIN.2019.8711781, (2019).
+
  </li>
   <li>
 <b> <span  style="color: Maroon;"> Mohammad Khalid Pandit</span> </b>, ”Non-convex T ℓ1 regularization for learning sparse neural networks”, in  in Sparsity in Neural Networks, Advancing Understanding and Practice (SNN Workshop 2021).
