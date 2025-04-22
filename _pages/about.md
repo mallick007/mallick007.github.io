@@ -20,6 +20,10 @@ redirect_from:
 *  Digital image security and analysis, content-based image and video retrieval, computer vision, and machine learning are some of his areas of interest and research and have contributed to and reviewed papers for numerous highly esteemed international conferences and Science Citation Indexed Journals (SCI).
 
 ## Recent News
+<p class="common_list bullet_list edu_list">[April 2025] Recieved a project grant for developing LLM based AI system for Indian Legal system from iHub and HCI Foundation, IIT Mandi.</p>
+<p class="common_list bullet_list edu_list">[April 2025] Paper titled, <a href="https://ieeexplore.ieee.org/abstract/document/10887634"> Quantum-Behaved Particle Swarm Optimization for the Segmentation of Kidney Stone CT Images</a> accepted in ICASSP 2025.</p>
+<p class="common_list bullet_list edu_list">[Feb 2025] Two Papers form our group accepted at SocPros-2025.</p>
+<p class="common_list bullet_list edu_list">[Nov 2024] Invited talk on <b>Efficient Deep Learning for Resource Constrained Environments </b>, at <a href="https://indoml.in/pan-india-forum.php">IndoML 2024, BITS Goa.</a>.</p>
 <p class="common_list bullet_list edu_list">[Aug 2024] Paper of M.Tech scholars Udit & Rishi accepted in, <a href="https://ieeedelhi-tensymp2024.org/"> IEEE TENSYMP-2024</a>.</p>
 <p class="common_list bullet_list edu_list">[Aug 2024] Paper of M.Tech scholars Sankalp & Piyush accepted in, <a href="https://cvmi2024.iiita.ac.in/"> IEEE CVMI-2024</a>.</p>
 <p class="common_list bullet_list edu_list">[Dec 2023] Paper Published in <a href="https://ieeexplore.ieee.org/abstract/document/10419280"> ACM SEC </a> "Bang for the Buck: Evaluating the cost-effectiveness of Heterogeneous Edge Platforms for Neural Network Workloads", Amarjeet Saini, Omkar B. Shende, Mohammad Khalid Pandit, Rijurekha Sen, Gayathri Ananthanarayanan in the 8th ACM/IEEE Symposium on Edge Computing.
