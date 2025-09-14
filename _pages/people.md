@@ -32,8 +32,6 @@ permalink: /people/
     }
 </style>
 
-<h2>Research Supervision</h2>
-
 <h3>Ph.D. Scholars</h3>
 <table>
     <thead>
