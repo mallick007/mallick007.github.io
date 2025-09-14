@@ -18,6 +18,8 @@ Education
 * **B.E. in Computer Science and Engineering**, 2013
     * *University Institute of Technology, Burdwan, India*
 
+---
+
 Work Experience
 ======
 * **Assistant Professor (Grade-II)**, Aug 2023 - Present
@@ -27,11 +29,15 @@ Work Experience
 * **Teaching Personal**, Aug 2015 - Dec 2015
     * *G. B. Pant University of Agriculture and Technology, Uttrakhand, India*
 
+---
+
 Technical Skills
 ======
 * **Areas**: Machine Learning, Deep Learning, Computer Vision, Image & Video Retrieval
 * **Languages**: Python, C++, MATLAB
 * **Frameworks**: TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV
+
+---
 
 Selected Publications
 ======
@@ -47,6 +53,8 @@ Selected Publications
 * **Ajay Kumar Mallick**, S. Mukhopadhyay, “Video Retrieval based on Motion Vector Key Frame Extraction and Spatial Pyramid Matching”, *6th International Conference on Signal Processing and Integrated Networks (SPIN), IEEE*, 2019.
 * **Ajay Kumar Mallick**, S. Maheshkar, “Near-Duplicate Video Retrieval Based on Spatio Temporal Pattern Tree,” *2nd International Conference on Computer Vision & Image Processing (CVIP), Springer*, 2018.
 
+---
+
 Invited Talks
 ======
 * **"Handcrafted and Deep Feature Based Image and Video Retrieval"**
@@ -54,12 +62,16 @@ Invited Talks
 * **"AI and its Applications in Architecture and Planning"**
     * *Invited Talk at the e-Short Term Course (e-STC) on "Information Science for Building Design and Urban Planning", NIT Hamirpur, Oct 2024.*
 
+---
+
 Conference & Workshop Organization
 ======
 * **Organizing Secretary**, *2nd International Conference on Artificial Intelligence, Machine Learning and Intelligent Systems (ICAMS 2025)*, NIT Hamirpur.
 * **Coordinator**, *International Short Term Course on "Research Applications of Deep Learning"*, NIT Hamirpur, July 2024.
 * **Technical Session Co-Chair**, *International Conference on Recent Trends in Transport Phenomena (RTTP 2024)*, NIT Hamirpur.
 * **Technical Session Co-Chair**, *5th International Conference on Machine Learning, Image Processing, Network Security and Data Sciences (MIND 2023)*, NIT Hamirpur.
+
+---
 
 Service and Leadership
 ======
