@@ -235,3 +235,9 @@
     }
   }
 }
+/* Custom Avatar Styles */
+.author__avatar img {
+  border-radius: 50%; /* Makes the image circular */
+  border: 3px solid #f2f2f2; /* Adds a light grey border */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); /* Adds a subtle shadow for depth */
+}
