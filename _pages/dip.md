@@ -4,6 +4,8 @@ title: Digital Image Processing CS-323
 permalink: /cs323-dip/
 ---
 
+<div style="margin: 0 8%;">
+
 <div style="text-align:center"><h2>Digital Image Processing (CS-323)</h2></div>
 
 <p>
@@ -80,3 +82,5 @@ permalink: /cs323-dip/
   <li><a href="https://nptel.ac.in/courses/117105079">Concept of DIP [Online NPTEL Course]</a></li>
   <li><a href="https://engineering.purdue.edu/ECE/Research/Areas/ViSPI/ECE637">Concept of Image Processing [Online Purdue University]</a></li>
 </ul>
+
+</div>
