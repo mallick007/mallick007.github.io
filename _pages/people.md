@@ -32,8 +32,6 @@ permalink: /people/
     }
 </style>
 
-<h2>Research Supervision</h2>
-
 <h3>Ph.D. Scholars</h3>
 <table>
     <thead>
@@ -191,7 +189,7 @@ permalink: /people/
 
 <hr>
 
-<h2>B.Tech Project Supervision</h2>
+<h2>B.Tech Project Supervisio</h2>
 <h4>Ongoing</h4>
 <table>
     <thead>
