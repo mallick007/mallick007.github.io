@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Information Theory and Coding CS-722
