@@ -42,7 +42,6 @@ permalink: /people/
             <th>Scholar Name</th>
             <th>Research Topic</th>
             <th>Profile Link</th>
-            <th>Current Affiliation</th>
             <th>Status</th>
             <th>Year</th>
             <th>Co-Supervisor(s)</th>
@@ -53,7 +52,6 @@ permalink: /people/
             <td>Ph.D</td>
             <td>Shorav Verma</td>
             <td>Development of Deep learning Approach for Image Enhancement in Adverse Visual Conditions</td>
-            <td>-</td>
             <td>-</td>
             <td>Ongoing</td>
             <td>2025</td>
@@ -73,7 +71,6 @@ permalink: /people/
             <th>Scholar Name</th>
             <th>Research Topic</th>
             <th>Profile Link</th>
-            <th>Current Affiliation</th>
             <th>Status</th>
             <th>Year</th>
             <th>Co-Supervisor(s)</th>
@@ -85,7 +82,6 @@ permalink: /people/
             <td>Abhishek Badwaik</td>
             <td>Challenges for robotics Vision</td>
             <td>-</td>
-            <td>-</td>
             <td>Ongoing</td>
             <td>2025</td>
             <td>-</td>
@@ -94,7 +90,6 @@ permalink: /people/
             <td>M.Tech</td>
             <td>Deepanshu</td>
             <td>Deep Semantic Learning Approaches for Content based Image Retrieval</td>
-            <td>-</td>
             <td>-</td>
             <td>Ongoing</td>
             <td>2025</td>
@@ -105,7 +100,6 @@ permalink: /people/
             <td>Archish</td>
             <td>Deep Supervised Image Enhancement Approaches</td>
             <td>-</td>
-            <td>-</td>
             <td>Ongoing</td>
             <td>2025</td>
             <td>-</td>
@@ -115,7 +109,6 @@ permalink: /people/
             <td>Tanmay Patel</td>
             <td>Techniques to Solve Data Imbalance problems for medical Images</td>
             <td>-</td>
-            <td>-</td>
             <td>Ongoing</td>
             <td>2025</td>
             <td>-</td>
@@ -124,7 +117,6 @@ permalink: /people/
             <td>M.Tech</td>
             <td>Vaishali Thakur</td>
             <td>Reinforcement Technique for Image Enhancement</td>
-            <td>-</td>
             <td>-</td>
             <td>Ongoing</td>
             <td>2025</td>
@@ -232,7 +224,6 @@ permalink: /people/
             <th>Student Name</th>
             <th>Project Title</th>
             <th>Profile Link</th>
-            <th>Current Affiliation</th>
             <th>Academic Year</th>
             <th>Status</th>
         </tr>
@@ -243,23 +234,19 @@ permalink: /people/
             <td>Sahil Atri [22BCS091]</td>
             <td rowspan="4">Technique for Underwater Image Enhancement</td>
             <td>-</td>
-            <td>-</td>
             <td rowspan="4">2025-26</td>
             <td rowspan="4">Ongoing</td>
         </tr>
         <tr>
             <td>Shreya Anand [22BCS106]</td>
             <td>-</td>
-            <td>-</td>
         </tr>
         <tr>
             <td>Kunal [22DCS012]</td>
             <td>-</td>
-            <td>-</td>
         </tr>
         <tr>
             <td>Seejal Sood [22DCS025]</td>
-            <td>-</td>
             <td>-</td>
         </tr>
         <tr>
@@ -267,28 +254,23 @@ permalink: /people/
             <td>Dikshant Kumawat [22BCS038]</td>
             <td rowspan="5">Deep Learning Technique for Flood Detection using Multispectral Images</td>
             <td>-</td>
-            <td>-</td>
             <td rowspan="5">2025-26</td>
             <td rowspan="5">Ongoing</td>
         </tr>
         <tr>
             <td>Ekansh Mahajan [22BCS040]</td>
             <td>-</td>
-            <td>-</td>
         </tr>
         <tr>
             <td>Saksham Salaria [22BCS094]</td>
-            <td>-</td>
             <td>-</td>
         </tr>
         <tr>
             <td>Sarthak Pundir [22BCS099]</td>
             <td>-</td>
-            <td>-</td>
         </tr>
         <tr>
             <td>Sheshank Koundal [22BCS102]</td>
-            <td>-</td>
             <td>-</td>
         </tr>
     </tbody>
