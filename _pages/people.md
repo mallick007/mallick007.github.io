@@ -61,6 +61,62 @@ permalink: /people/
 <hr>
 
 <h3>M.Tech. Students</h3>
+<h4>Ongoing</h4>
+<table>
+    <thead>
+        <tr>
+            <th>Programme Name</th>
+            <th>Scholar Name</th>
+            <th>Research Topic</th>
+            <th>Status</th>
+            <th>Year</th>
+            <th>Co-Supervisor(s)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>M.Tech</td>
+            <td>Abhishek Badwaik</td>
+            <td>Challenges for robotics Vision</td>
+            <td>Ongoing</td>
+            <td>2025</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>M.Tech</td>
+            <td>Deepanshu</td>
+            <td>Deep Semantic Learning Approaches for Content based Image Retrieval</td>
+            <td>Ongoing</td>
+            <td>2025</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>M.Tech</td>
+            <td>Archish</td>
+            <td>Deep Supervised Image Enhancement Approaches</td>
+            <td>Ongoing</td>
+            <td>2025</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>M.Tech</td>
+            <td>Tanmay Patel</td>
+            <td>Techniques to Solve Data Imbalance problems for medical Images</td>
+            <td>Ongoing</td>
+            <td>2025</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>M.Tech</td>
+            <td>Vaishali Thakur</td>
+            <td>Reinforcement Technique for Image Enhancement</td>
+            <td>Ongoing</td>
+            <td>2025</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
+
 <h4>Completed</h4>
 <table>
     <thead>
@@ -133,65 +189,60 @@ permalink: /people/
     </tbody>
 </table>
 
+<hr>
+
+<h2>B.Tech Project Supervision</h2>
 <h4>Ongoing</h4>
 <table>
     <thead>
         <tr>
-            <th>Programme Name</th>
-            <th>Scholar Name</th>
-            <th>Research Topic</th>
+            <th>Sr. No.</th>
+            <th>Student Name</th>
+            <th>Project Title</th>
+            <th>Academic Year</th>
             <th>Status</th>
-            <th>Year</th>
-            <th>Co-Supervisor(s)</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>M.Tech</td>
-            <td>Abhishek Badwaik</td>
-            <td>Challenges for robotics Vision</td>
-            <td>Ongoing</td>
-            <td>2025</td>
-            <td>-</td>
+            <td rowspan="4" style="text-align:center;">1</td>
+            <td>Sahil Atri [22BCS091]</td>
+            <td rowspan="4">Technique for Underwater Image Enhancement</td>
+            <td rowspan="4">2025-26</td>
+            <td rowspan="4">Ongoing</td>
         </tr>
         <tr>
-            <td>M.Tech</td>
-            <td>Deepanshu</td>
-            <td>Deep Semantic Learning Approaches for Content based Image Retrieval</td>
-            <td>Ongoing</td>
-            <td>2025</td>
-            <td>-</td>
+            <td>Shreya Anand [22BCS106]</td>
         </tr>
         <tr>
-            <td>M.Tech</td>
-            <td>Archish</td>
-            <td>Deep Supervised Image Enhancement Approaches</td>
-            <td>Ongoing</td>
-            <td>2025</td>
-            <td>-</td>
+            <td>Kunal [22DCS012]</td>
         </tr>
         <tr>
-            <td>M.Tech</td>
-            <td>Tanmay Patel</td>
-            <td>Techniques to Solve Data Imbalance problems for medical Images</td>
-            <td>Ongoing</td>
-            <td>2025</td>
-            <td>-</td>
+            <td>Seejal Sood [22DCS025]</td>
         </tr>
         <tr>
-            <td>M.Tech</td>
-            <td>Vaishali Thakur</td>
-            <td>Reinforcement Technique for Image Enhancement</td>
-            <td>Ongoing</td>
-            <td>2025</td>
-            <td>-</td>
+            <td rowspan="5" style="text-align:center;">2</td>
+            <td>Dikshant Kumawat [22BCS038]</td>
+            <td rowspan="5">Deep Learning Technique for Flood Detection using Multispectral Images</td>
+            <td rowspan="5">2025-26</td>
+            <td rowspan="5">Ongoing</td>
+        </tr>
+        <tr>
+            <td>Ekansh Mahajan [22BCS040]</td>
+        </tr>
+        <tr>
+            <td>Saksham Salaria [22BCS094]</td>
+        </tr>
+        <tr>
+            <td>Sarthak Pundir [22BCS099]</td>
+        </tr>
+        <tr>
+            <td>Sheshank Koundal [22BCS102]</td>
         </tr>
     </tbody>
 </table>
 
-<hr>
-
-<h2>B.Tech Project Supervision</h2>
+<h4>Completed</h4>
 <table>
     <thead>
         <tr>
@@ -241,41 +292,6 @@ permalink: /people/
         </tr>
         <tr>
             <td>Vishnu Avtar [21BCS117]</td>
-        </tr>
-        <tr>
-            <td rowspan="4" style="text-align:center;">4</td>
-            <td>Sahil Atri [22BCS091]</td>
-            <td rowspan="4">Technique for Underwater Image Enhancement</td>
-            <td rowspan="4">2025-26</td>
-            <td rowspan="4">Ongoing</td>
-        </tr>
-        <tr>
-            <td>Shreya Anand [22BCS106]</td>
-        </tr>
-        <tr>
-            <td>Kunal [22DCS012]</td>
-        </tr>
-        <tr>
-            <td>Seejal Sood [22DCS025]</td>
-        </tr>
-        <tr>
-            <td rowspan="5" style="text-align:center;">5</td>
-            <td>Dikshant Kumawat [22BCS038]</td>
-            <td rowspan="5">Deep Learning Technique for Flood Detection using Multispectral Images</td>
-            <td rowspan="5">2025-26</td>
-            <td rowspan="5">Ongoing</td>
-        </tr>
-        <tr>
-            <td>Ekansh Mahajan [22BCS040]</td>
-        </tr>
-        <tr>
-            <td>Saksham Salaria [22BCS094]</td>
-        </tr>
-        <tr>
-            <td>Sarthak Pundir [22BCS099]</td>
-        </tr>
-        <tr>
-            <td>Sheshank Koundal [22BCS102]</td>
         </tr>
     </tbody>
 </table>
