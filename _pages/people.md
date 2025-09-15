@@ -51,8 +51,8 @@ permalink: /people/
             <td>Ph.D</td>
             <td>Shorav Verma</td>
             <td>Development of Deep learning Approach for Image Enhancement in Adverse Visual Conditions</td>
-            <td>-</td>
-            <td>-</td>
+            <td><a href="https://scholar.google.com/citations?hl=en&user=qGyUdlcAAAAJ">Google Scholar</a></td>
+            <td><a href="https://scholar.google.com/citations?hl=en&user=qGyUdlcAAAAJ">Ph.D. Candidate, NIT Hamirpur</a></td>
             <td>Ongoing</td>
             <td>2025</td>
             <td>-</td>
@@ -82,8 +82,8 @@ permalink: /people/
             <td>M.Tech</td>
             <td>Abhishek Badwaik</td>
             <td>Challenges for robotics Vision</td>
-            <td>-</td>
-            <td>-</td>
+            <td><a href="https://www.linkedin.com/in/abhishek-badwaik-624685383">LinkedIn</a></td>
+            <td>NIT Hamirpur</td>
             <td>Ongoing</td>
             <td>2025</td>
             <td>-</td>
@@ -112,8 +112,8 @@ permalink: /people/
             <td>M.Tech</td>
             <td>Tanmay Patel</td>
             <td>Techniques to Solve Data Imbalance problems for medical Images</td>
-            <td>-</td>
-            <td>-</td>
+            <td><a href="https://www.linkedin.com/in/tanmay-patel-9266812a5">LinkedIn</a></td>
+            <td>NIT Hamirpur</td>
             <td>Ongoing</td>
             <td>2025</td>
             <td>-</td>
@@ -122,8 +122,8 @@ permalink: /people/
             <td>M.Tech</td>
             <td>Vaishali Thakur</td>
             <td>Reinforcement Technique for Image Enhancement</td>
-            <td>-</td>
-            <td>-</td>
+            <td><a href="https://www.linkedin.com/in/vaishali2054">LinkedIn</a></td>
+            <td>Atlassian</td>
             <td>Ongoing</td>
             <td>2025</td>
             <td>-</td>
@@ -150,8 +150,8 @@ permalink: /people/
             <td>M.Tech</td>
             <td>Malika Sood</td>
             <td>Revolutionizing Tomato Agriculture: Leaf Disease Detection using CNN and its Variants</td>
-            <td>-</td>
-            <td>-</td>
+            <td><a href="http://linkedin.com/in/msood19">LinkedIn</a></td>
+            <td>BNY Mellon</td>
             <td>Completed</td>
             <td>2024</td>
             <td>Dr. Jyoti Srivastava</td>
@@ -160,8 +160,8 @@ permalink: /people/
             <td>M.Tech</td>
             <td>Ajay Kumar</td>
             <td>Enhancing Hindi Named Entity Recognition using XLM-RoBERTa</td>
-            <td>-</td>
-            <td>-</td>
+            <td><a href="https://www.linkedin.com/in/ajay-kumar-193775244">LinkedIn</a></td>
+            <td>Netsmartz Academy</td>
             <td>Completed</td>
             <td>2024</td>
             <td>Dr. Jyoti Srivastava</td>
@@ -190,8 +190,8 @@ permalink: /people/
             <td>M.Tech</td>
             <td>Sourabh Sharma</td>
             <td>Deep Convolution Neural Network and Handcrafted Feature Fusion Techniques for Image Retrieval</td>
-            <td>-</td>
-            <td>-</td>
+            <td><a href="https://www.linkedin.com/in/sourabh-sharma-a487191b2/">LinkedIn</a></td>
+            <td><a href="https://www.linkedin.com/company/warner-bros-discovery/">Warner Bros. Discovery</a></td>
             <td>Completed</td>
             <td>2025</td>
             <td>-</td>
@@ -200,7 +200,7 @@ permalink: /people/
             <td>M.Tech</td>
             <td>Atul Sharma</td>
             <td>Attention based deep learning approach for fingerprint liveness detection</td>
-            <td>-</td>
+            <td><a href="https://www.linkedin.com/in/atul-sharma-42bbb42a89/">LinkedIn</a></td>
             <td>-</td>
             <td>Completed</td>
             <td>2025</td>
@@ -210,7 +210,7 @@ permalink: /people/
             <td>M.Tech</td>
             <td>Sameer Mirza</td>
             <td>Enhanced Small Object Detection in Aerial Imagery using Deep Cross Block and YOLOv9 Fusion</td>
-            <td>-</td>
+            <td><a href="https://www.linkedin.com/in/sameermirza25/">LinkedIn</a></td>
             <td>-</td>
             <td>Completed</td>
             <td>2025</td>
@@ -247,13 +247,13 @@ permalink: /people/
         </tr>
         <tr>
             <td>Shreya Anand [22BCS106]</td>
-            <td>-</td>
-            <td>-</td>
+            <td><a href="https://www.linkedin.com/in/shreya-anand-2000a4278/">LinkedIn</a></td>
+            <td>NIT Hamirpur</td>
         </tr>
         <tr>
             <td>Kunal [22DCS012]</td>
-            <td>-</td>
-            <td>-</td>
+            <td><a href="https://www.linkedin.com/in/kunal-dhiman-0558b425b">LinkedIn</a></td>
+            <td>NIT Hamirpur</td>
         </tr>
         <tr>
             <td>Seejal Sood [22DCS025]</td>
@@ -276,7 +276,7 @@ permalink: /people/
         </tr>
         <tr>
             <td>Saksham Salaria [22BCS094]</td>
-            <td>-</td>
+            <td><a href="https://www.linkedin.com/in/saksham-salaria-34455125a/">LinkedIn</a></td>
             <td>-</td>
         </tr>
         <tr>
@@ -310,15 +310,15 @@ permalink: /people/
             <td rowspan="2" style="text-align:center;">1</td>
             <td>Tanmay Patel [21DCS001]</td>
             <td rowspan="2">Real-Time Edge Device Deployment for Small Object Detection and Surveillance Applications</td>
-            <td>-</td>
-            <td>-</td>
+            <td><a href="https://www.linkedin.com/in/tanmay-patel-9266812a5">LinkedIn</a></td>
+            <td>NIT Hamirpur</td>
             <td rowspan="2">2024-25</td>
             <td rowspan="2">Completed</td>
         </tr>
         <tr>
             <td>Vaishali Thakur [21DCS021]</td>
-            <td>-</td>
-            <td>-</td>
+            <td><a href="https://www.linkedin.com/in/vaishali2054">LinkedIn</a></td>
+            <td>Atlassian</td>
         </tr>
         <tr>
             <td rowspan="3" style="text-align:center;">2</td>
@@ -336,8 +336,8 @@ permalink: /people/
         </tr>
         <tr>
             <td>Tanvi Bhopal [21BCS081]</td>
-            <td>-</td>
-            <td>-</td>
+            <td><a href="http://linkedin.com/in/tanvi-bhopal-229046237">LinkedIn</a></td>
+            <td>HCL Tech</td>
         </tr>
         <tr>
             <td rowspan="4" style="text-align:center;">3</td>
@@ -355,8 +355,8 @@ permalink: /people/
         </tr>
         <tr>
             <td>Tushar Tekta [21BCS097]</td>
-            <td>-</td>
-            <td>-</td>
+            <td><a href="https://www.linkedin.com/in/itsitushar">LinkedIn</a></td>
+            <td><a href="https://falabellaindia.com/">Falabella India</a></td>
         </tr>
         <tr>
             <td>Vishnu Avtar [21BCS117]</td>
