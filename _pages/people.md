@@ -277,7 +277,7 @@ permalink: /people/
         <tr>
             <td>Saksham Salaria [22BCS094]</td>
             <td><a href="https://www.linkedin.com/in/saksham-salaria-34455125a/">LinkedIn</a></td>
-            <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a>
+            <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
         </tr>
         <tr>
             <td>Sarthak Pundir [22BCS099]</td>
