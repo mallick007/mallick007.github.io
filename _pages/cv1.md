@@ -85,7 +85,22 @@ Service and Leadership
 * Member, *Institute of Electrical and Electronics Engineers (IEEE)*
 * Member, *Association for Computing Machinery (ACM)*
   
-### Conference Technical Program Committee and Session Chair Role
-* **Technical Session Co-Chair**, *International Conference on Recent Trends in Transport Phenomena (RTTP 2024)*, NIT Hamirpur.
-* **Technical Session Co-Chair**, *5th International Conference on Machine Learning, Image Processing, Network Security and Data Sciences (MIND 2023)*, NIT Hamirpur.
+### Session Chair Role
+* **Technical Session Co-Chair**, *International Conference on Recent Trends in Transport Phenomena (<a href="https://rttp2024.nith.ac.in/">(RTTP 2024)</a>)*, organized by Department of Chemical Engineering in Association with Indian Institute of Chemical Engineers (IICHE), 24-26 June, 2024.
+
+* **Technical Session Co-Chair**, *5th International Conference on Machine Learning, Image Processing, Network Security and Data Sciences , <a href=" https://mind2023.nith.ac.in/">( MIND 2023) </a>,  organized by Department of Computer Science and Engineering, NIT Hamirpur, 21-22 December, 2023.
+
+* **Session Chair**, 7th International Conference on Information Systems and Management Science, <a href=" https://isms2024.iaasse.org/index.html">(ISMS 2025) </a>,  organized by Department of Computer Engineering, National Institute of Technology Kurukshetra, Haryana, India, 22-23 February 2025.
+* **Session Chair**, International Conference on Artificial Intelligence and Emerging Technologies <a href=" https://icaiet.co.in/committee">(ICAIET) - 2025</a>, Organized by  School of Computer Science & Engineering, XIM University, Bhubaneswar (New Campus), Harirajpur,  28 – 30, August 2025.
+
+### Conference Advisary/ Technical Program Committee
+* **National Advisory Committee**, International Conference on Computational Intelligence for Sustainable Development, <a href="https://www.iccisd.com/commitee">(ICCISD 2026)</a>
+, Organized by Department of Computer Science and Applications, Sharda School of Computing Science & Engineering, Sharda University, Greater Noida, India, 23 - 24 July 2026.
+
+* **Technical Program Committee**, International Conference on Artificial Intelligence and Emerging Technologies <a href=" https://icaiet.co.in/committee">(ICAIET 2025)</a>, Organized by  School of Computer Science & Engineering, XIM University, Bhubaneswar (New Campus), Harirajpur,  28 – 30, August 2025.
+
+* **Technical Program Committee**, 6th International Conference on Recent Advances in Information Technology, <a href="https://people.iitism.ac.in/~rait/tpc.html">(RAIT 2025) </a>, Organized by Department of Computer Science and Engineering, Indian Institute of Technology, (ISM) Dhanbad,  Jharkhand, India,  6-8  March, 2025.
+
+
+
 
