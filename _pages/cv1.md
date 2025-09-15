@@ -57,10 +57,12 @@ Selected Publications
 
 Invited Talks
 ======
-* **"Handcrafted and Deep Feature Based Image and Video Retrieval"**
-    * *Invited Talk at the Online Short Term Course (eSTC) on "Research Applications of Deep Learning", NIT Hamirpur, July 2024.*
 * **"AI and its Applications in Architecture and Planning"**
     * *Invited Talk at the e-Short Term Course (e-STC) on "Information Science for Building Design and Urban Planning", NIT Hamirpur, Oct 2024.*
+
+* **"Handcrafted and Deep Feature Based Image and Video Retrieval"**
+    * *Invited Talk at the Online Short Term Course (eSTC) on "Research Applications of Deep Learning", NIT Hamirpur, July 2024.*
+
 
 ---
 
