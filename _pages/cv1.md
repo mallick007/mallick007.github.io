@@ -84,6 +84,7 @@ Service and Leadership
 * Life Member, *Indian Unit for Pattern Recognition and Artificial Intelligence (IUPRAI)*
 * Member, *Institute of Electrical and Electronics Engineers (IEEE)*
 * Member, *Association for Computing Machinery (ACM)*
+  
 ### Conference Technical Program Committee and Session Chair Role
 * **Technical Session Co-Chair**, *International Conference on Recent Trends in Transport Phenomena (RTTP 2024)*, NIT Hamirpur.
 * **Technical Session Co-Chair**, *5th International Conference on Machine Learning, Image Processing, Network Security and Data Sciences (MIND 2023)*, NIT Hamirpur.
