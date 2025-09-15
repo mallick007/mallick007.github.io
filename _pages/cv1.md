@@ -95,7 +95,9 @@ Service and Leadership
 
 ### Conference Advisary/ Technical Program Committee
 * **National Advisory Committee**, International Conference on Computational Intelligence for Sustainable Development, <a href="https://www.iccisd.com/commitee">(ICCISD 2026)</a>, Organized by Department of Computer Science and Applications, Sharda School of Computing Science & Engineering, Sharda University, Greater Noida, India, 23 - 24 July 2026.
-
+  
+* **Technical Program Committee**, International Conference on Cyber Security and Artificial Intelligence, (<a href="https://iccsai.org/">(ICCSAI 2025) </a>), organized by the Department of Computer Science & Engineering Dr. Sudhir Chandra Sur Institute of Technology & Sports Complex, Kolkata, West Bengal, India, 28-29, August, 2025.
+  
 * **Technical Program Committee**, International Conference on Artificial Intelligence and Emerging Technologies <a href="https://icaiet.co.in/committee">(ICAIET 2025)</a>, Organized by  School of Computer Science & Engineering, XIM University, Bhubaneswar (New Campus), Harirajpur,  28 – 30, August 2025.
 
 * **Technical Program Committee**, 6th International Conference on Recent Advances in Information Technology, <a href="https://people.iitism.ac.in/~rait/tpc.html">(RAIT 2025) </a>, Organized by Department of Computer Science and Engineering, Indian Institute of Technology, (ISM) Dhanbad,  Jharkhand, India,  6-8  March, 2025.
