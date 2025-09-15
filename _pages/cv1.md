@@ -94,8 +94,7 @@ Service and Leadership
 * **Session Chair**, International Conference on Artificial Intelligence and Emerging Technologies <a href=" https://icaiet.co.in/committee">(ICAIET) - 2025</a>, Organized by  School of Computer Science & Engineering, XIM University, Bhubaneswar (New Campus), Harirajpur,  28 – 30, August 2025.
 
 ### Conference Advisary/ Technical Program Committee
-* **National Advisory Committee**, International Conference on Computational Intelligence for Sustainable Development, <a href="https://www.iccisd.com/commitee">(ICCISD 2026)</a>
-, Organized by Department of Computer Science and Applications, Sharda School of Computing Science & Engineering, Sharda University, Greater Noida, India, 23 - 24 July 2026.
+* **National Advisory Committee**, International Conference on Computational Intelligence for Sustainable Development, <a href="https://www.iccisd.com/commitee">(ICCISD 2026)</a>, Organized by Department of Computer Science and Applications, Sharda School of Computing Science & Engineering, Sharda University, Greater Noida, India, 23 - 24 July 2026.
 
 * **Technical Program Committee**, International Conference on Artificial Intelligence and Emerging Technologies <a href=" https://icaiet.co.in/committee">(ICAIET 2025)</a>, Organized by  School of Computer Science & Engineering, XIM University, Bhubaneswar (New Campus), Harirajpur,  28 – 30, August 2025.
 
