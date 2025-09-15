@@ -80,7 +80,7 @@ permalink: /people/
     <tbody>
         <tr>
             <td>M.Tech</td>
-            <td>Abhishek Badwaik</td>
+            <td>Abhishek Badwaik [24MCS101]</td>
             <td>Challenges for robotics Vision</td>
             <td><a href="https://www.linkedin.com/in/abhishek-badwaik-624685383">LinkedIn</a></td>
             <td>NIT Hamirpur</td>
@@ -90,7 +90,7 @@ permalink: /people/
         </tr>
         <tr>
             <td>M.Tech</td>
-            <td>Deepanshu</td>
+            <td>Deepanshu [24MCS103]</td>
             <td>Deep Semantic Learning Approaches for Content based Image Retrieval</td>
             <td>-</td>
             <td>-</td>
@@ -100,7 +100,7 @@ permalink: /people/
         </tr>
         <tr>
             <td>M.Tech</td>
-            <td>Archish</td>
+            <td>Archish [24MCS106]</td>
             <td>Deep Supervised Image Enhancement Approaches</td>
             <td><a href="https://www.linkedin.com/in/archish-k-0408892b3/">LinkedIn</a></td>
             <td>-</td>
@@ -110,7 +110,7 @@ permalink: /people/
         </tr>
         <tr>
             <td>M.Tech</td>
-            <td>Tanmay Patel</td>
+            <td>Tanmay Patel [21DCS001]</td>
             <td>Techniques to Solve Data Imbalance problems for medical Images</td>
             <td><a href="https://www.linkedin.com/in/tanmay-patel-9266812a5">LinkedIn</a></td>
             <td>NIT Hamirpur</td>
@@ -120,7 +120,7 @@ permalink: /people/
         </tr>
         <tr>
             <td>M.Tech</td>
-            <td>Vaishali Thakur</td>
+            <td>Vaishali Thakur [21DCS021]</td>
             <td>Reinforcement Technique for Image Enhancement</td>
             <td><a href="https://www.linkedin.com/in/vaishali2054">LinkedIn</a></td>
             <td>Atlassian</td>
