@@ -85,7 +85,7 @@ Service and Leadership
 * Member, *Institute of Electrical and Electronics Engineers (IEEE)*
 * Member, *Association for Computing Machinery (ACM)*
   
-### Conference Session/Co-Session Chair
+### Conference Session/ Co-Session Chair
 * **Technical Session Co-Chair**, *International Conference on Recent Trends in Transport Phenomena (<a href="https://rttp2024.nith.ac.in/">(RTTP 2024)</a>)*, organized by Department of Chemical Engineering in Association with Indian Institute of Chemical Engineers (IICHE), 24-26 June, 2024.
 
 * **Technical Session Co-Chair**, *5th International Conference on Machine Learning, Image Processing, Network Security and Data Sciences, <a href="https://mind2023.nith.ac.in/">(MIND 2023) </a>, organized by Department of Computer Science and Engineering, NIT Hamirpur, 21-22 December, 2023.
