@@ -102,7 +102,7 @@ permalink: /people/
             <td>M.Tech</td>
             <td>Archish</td>
             <td>Deep Supervised Image Enhancement Approaches</td>
-            <td>-</td>
+            <td><a href="https://www.linkedin.com/in/archish-k-0408892b3/">LinkedIn</a></td>
             <td>-</td>
             <td>Ongoing</td>
             <td>2025</td>
@@ -240,54 +240,54 @@ permalink: /people/
             <td rowspan="4" style="text-align:center;">1</td>
             <td>Sahil Atri [22BCS091]</td>
             <td rowspan="4">Technique for Underwater Image Enhancement</td>
-            <td>-</td>
-            <td>-</td>
+            <td><a href="https://www.linkedin.com/in/sahil-atri-279940263/">LinkedIn</a></td>
+            <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
             <td rowspan="4">2025-26</td>
             <td rowspan="4">Ongoing</td>
         </tr>
         <tr>
             <td>Shreya Anand [22BCS106]</td>
             <td><a href="https://www.linkedin.com/in/shreya-anand-2000a4278/">LinkedIn</a></td>
-            <td>NIT Hamirpur</td>
+            <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
         </tr>
         <tr>
             <td>Kunal [22DCS012]</td>
             <td><a href="https://www.linkedin.com/in/kunal-dhiman-0558b425b">LinkedIn</a></td>
-            <td>NIT Hamirpur</td>
+            <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
         </tr>
         <tr>
             <td>Seejal Sood [22DCS025]</td>
-            <td>-</td>
-            <td>-</td>
+            <td><a href="https://www.linkedin.com/in/seejal-sood-73221325a/">LinkedIn</a></td></td>
+            <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
         </tr>
         <tr>
             <td rowspan="5" style="text-align:center;">2</td>
             <td>Dikshant Kumawat [22BCS038]</td>
             <td rowspan="5">Deep Learning Technique for Flood Detection using Multispectral Images</td>
-            <td>-</td>
-            <td>-</td>
+            <td><a href="https://www.linkedin.com/in/dikshant936/">LinkedIn</a></td>
+            <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
             <td rowspan="5">2025-26</td>
             <td rowspan="5">Ongoing</td>
         </tr>
         <tr>
             <td>Ekansh Mahajan [22BCS040]</td>
-            <td>-</td>
-            <td>-</td>
+            <td><a href="https://www.linkedin.com/in/ekansh-mahajan-6199ba248/">LinkedIn</a></td>
+            <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
         </tr>
         <tr>
             <td>Saksham Salaria [22BCS094]</td>
             <td><a href="https://www.linkedin.com/in/saksham-salaria-34455125a/">LinkedIn</a></td>
-            <td>-</td>
+            <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a>
         </tr>
         <tr>
             <td>Sarthak Pundir [22BCS099]</td>
-            <td>-</td>
-            <td>-</td>
+            <td><a href="https://www.linkedin.com/in/sheshankkoundal1722/">LinkedIn</a></td>
+            <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
         </tr>
         <tr>
             <td>Sheshank Koundal [22BCS102]</td>
-            <td>-</td>
-            <td>-</td>
+            <td><a href="https://www.linkedin.com/in/sheshankkoundal1722/">LinkedIn</a></td> 
+            <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
         </tr>
     </tbody>
 </table>
@@ -311,7 +311,7 @@ permalink: /people/
             <td>Tanmay Patel [21DCS001]</td>
             <td rowspan="2">Real-Time Edge Device Deployment for Small Object Detection and Surveillance Applications</td>
             <td><a href="https://www.linkedin.com/in/tanmay-patel-9266812a5">LinkedIn</a></td>
-            <td>NIT Hamirpur</td>
+            <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
             <td rowspan="2">2024-25</td>
             <td rowspan="2">Completed</td>
         </tr>
@@ -324,15 +324,15 @@ permalink: /people/
             <td rowspan="3" style="text-align:center;">2</td>
             <td>Manik Bhatia [21BCS056]</td>
             <td rowspan="3">FaceForensics: Deep Learning Techniques for Forgery Detection in Facial Videos</td>
-            <td>-</td>
-            <td>-</td>
+            <td><a href="https://www.linkedin.com/in/manik-bhatia-84711820b/">LinkedIn</a></td>
+            <td><a href="https://www.linkedin.com/company/pt-global-tiket-network/">ticket.com</a></td>
             <td rowspan="3">2024-25</td>
             <td rowspan="3">Completed</td>
         </tr>
         <tr>
             <td>Ramit Gupta [21BCS057]</td>
-            <td>-</td>
-            <td>-</td>
+            <td><a href="https://www.linkedin.com/in/ramit-gupta-47930622a/">LinkedIn</a></td>
+            <td><a href="https://www.linkedin.com/company/cloudera/">Cloudera</a></td>
         </tr>
         <tr>
             <td>Tanvi Bhopal [21BCS081]</td>
@@ -343,14 +343,14 @@ permalink: /people/
             <td rowspan="4" style="text-align:center;">3</td>
             <td>Ishan Guleria [21BCS022]</td>
             <td rowspan="4">ColorFlow QR: Blending Colors and Usability</td>
-            <td>-</td>
+            <td><a href="https://www.linkedin.com/in/ishan-guleria-305681229/">LinkedIn</a></td>
             <td>-</td>
             <td rowspan="4">2024-25</td>
             <td rowspan="4">Completed</td>
         </tr>
         <tr>
             <td>Kundan Khirade [21BCS096]</td>
-            <td>-</td>
+            <td><a href="https://www.linkedin.com/in/kundankhirade/">LinkedIn</a></td>
             <td>-</td>
         </tr>
         <tr>
