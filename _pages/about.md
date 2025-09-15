@@ -14,6 +14,7 @@ redirect_from:
 * Digital image security and analysis, content-based image and video retrieval, computer vision, and machine learning are some of his areas of interest and research and have contributed to and reviewed papers for numerous highly esteemed international conferences and Science Citation Indexed Journals (SCI).
 
 ## Recent News
+* <p class="common_list bullet_list edu_list">[September, 2025] Organised, <td><a href="https://www.sih.gov.in/">Smart India Hackathon 2025</a></td>, NIT Hamirpur</p>
 <p class="common_list bullet_list edu_list">[September, 2025] Paper titled, A Comprehensive Survey of Content-based Image Retrieval Schemes: Advancements, Challenges, and Future Directions Accepted in <a href="https://link.springer.com/journal/11042">Multimedia Tools and Applications </a>, an International Journal.</p>
 <p class="common_list bullet_list edu_list">[June 2025] Paper of M.Tech Scholar, Sameer Mirza, titled, Fusion of Deep Cross Block Stage and YOLOv9 for Enhanced Small Object Detection in Aerial Imagery Accepted in <a href="https://www.scrs.in/conference/icivc2025">ICICV 2025 </a> .</p>
 <p class="common_list bullet_list edu_list">[May 2025] Paper of M.Tech Scholar, Atul Sharma titled, AttentiveFP: An Attention-Guided Deep Learning Approach for Fingerprint Liveness Detection Accepted in <a  href="https://academicalerts.org/events/2025-IC2E3-2">IC2E3-2025</a>.</p>
