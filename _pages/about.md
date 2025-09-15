@@ -10,7 +10,7 @@ redirect_from:
 
 * In the National Institute of Technology, Hamirpur, I am an Assistant Professor in the Department of Computer Science and Engineering.
 * I received his Ph.D. and M. Tech. degree from the Indian Institute of Technology (Indian School of Mines), Dhanbad, India, Department of Computer Science & Engineering.
-* I am a life member of the Indian Unit for Pattern Recognition and Artificial Intelligence (IUPRAI) and a member of several other technical professional organizations, including IEEE.
+* I am a life member of the Indian Unit for Pattern Recognition and Artificial Intelligence-IUPRAI(L-226) and a member of several other technical professional organizations, including IEEE.
 * Digital image security and analysis, content-based image and video retrieval, computer vision, and machine learning are some of his areas of interest and research and have contributed to and reviewed papers for numerous highly esteemed international conferences and Science Citation Indexed Journals (SCI).
 
 ## Recent News
