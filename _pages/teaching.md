@@ -14,7 +14,7 @@ author_profile: true
 <ul>
   <li><a href="/cs641-dl">Deep Learning (CS-641)</a></li>
   <li><a href="/cs323-dip">Digital Image Processing (CS-323)</a></li>
-  <li><a href="/cs325-diplab">Digital Image Processing Laboratory (CS-325)</a></li>
+  <li><a href="/cs325-diplab-2024-25">Digital Image Processing Laboratory (CS-325)</a></li>
 </ul>
 
 <h3>Odd Semester 2024-25</h3>
@@ -26,7 +26,7 @@ author_profile: true
 <h3>Even Semester 2023-24</h3>
 <ul>
   <li><a href="/cs323-dip">Digital Image Processing (CS-323)</a></li>
-  <li><a href="/cs325-diplab">Digital Image Processing Laboratory (CS-325)</a></li>
+  <li><a href="/cs325-diplab-2023-24">Digital Image Processing Laboratory (CS-325)</a></li>
 </ul>
 
 <h3>Odd Semester 2023-24</h3>
