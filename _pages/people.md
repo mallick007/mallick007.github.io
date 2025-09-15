@@ -191,7 +191,7 @@ permalink: /people/
             <td>Sourabh Sharma [23MCS021]</td>
             <td>Deep Convolution Neural Network and Handcrafted Feature Fusion Techniques for Image Retrieval</td>
             <td><a href="https://www.linkedin.com/in/sourabh-sharma-a487191b2/">LinkedIn</a></td>
-            <td><a href="https://www.linkedin.com/company/warner-bros-discovery/">Warner Bros. Discovery</a></td>
+            <td><a href="https://www.linkedin.com/company/warner-bros-discovery/">Software Developer at Warner Bros. Discovery</a></td>
             <td>Completed</td>
             <td>2025</td>
             <td>-</td>
@@ -257,7 +257,7 @@ permalink: /people/
         </tr>
         <tr>
             <td>Seejal Sood [22DCS025]</td>
-            <td><a href="https://www.linkedin.com/in/seejal-sood-73221325a/">LinkedIn</a></td></td>
+            <td><a href="https://www.linkedin.com/in/seejal-sood-73221325a/">LinkedIn</a></td>
             <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
         </tr>
         <tr>
@@ -356,7 +356,7 @@ permalink: /people/
         <tr>
             <td>Tushar Tekta [21BCS097]</td>
             <td><a href="https://www.linkedin.com/in/itsitushar">LinkedIn</a></td>
-            <td><a href="https://falabellaindia.com/">Falabella India</a></td>
+            <td><a href="https://falabellaindia.com/">Intern at Falabella India</a></td>
         </tr>
         <tr>
             <td>Vishnu Avtar [21BCS117]</td>
