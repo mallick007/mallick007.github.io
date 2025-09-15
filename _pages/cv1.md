@@ -78,10 +78,11 @@ Service and Leadership
 * **Assistant Faculty In-charge (AFI)**, Cultural Activities & Clubs (Sangeet), *NIT Hamirpur*, Aug 2024 - Present
 * **Officer In-Charge (OIC)**, Department Research Laboratory, *NIT Hamirpur*, Feb 2024 - Present
 * **Officer In-Charge (OIC)**, Department Infrastructure, *NIT Hamirpur*, Feb 2024 - Present
-### Conference Technical Program Committee & Session Chair Role
-* **Technical Session Co-Chair**, *International Conference on Recent Trends in Transport Phenomena (RTTP 2024)*, NIT Hamirpur.
-* **Technical Session Co-Chair**, *5th International Conference on Machine Learning, Image Processing, Network Security and Data Sciences (MIND 2023)*, NIT Hamirpur.
-### Professional Memberships
+* ### Professional Memberships
 * Life Member, *Indian Unit for Pattern Recognition and Artificial Intelligence (IUPRAI)*
 * Member, *Institute of Electrical and Electronics Engineers (IEEE)*
 * Member, *Association for Computing Machinery (ACM)*
+### Conference Technical Program Committee & Session Chair Role
+* **Technical Session Co-Chair**, *International Conference on Recent Trends in Transport Phenomena (RTTP 2024)*, NIT Hamirpur.
+* **Technical Session Co-Chair**, *5th International Conference on Machine Learning, Image Processing, Network Security and Data Sciences (MIND 2023)*, NIT Hamirpur.
+
