@@ -22,7 +22,7 @@ Education
 
 Work Experience
 ======
-* **Assistant Professor (Grade-II)**, Aug 2023 - Present
+* **Assistant Professor (Grade-II)**, Sep 2023 - Present
     * *National Institute of Technology Hamirpur, India*
 * **Assistant Professor**, June 2022 - May 2023
     * *VIT-AP University, India*
