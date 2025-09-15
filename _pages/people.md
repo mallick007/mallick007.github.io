@@ -238,7 +238,7 @@ permalink: /people/
     <tbody>
         <tr>
             <td rowspan="4" style="text-align:center;">1</td>
-            <td>Sahil Atri [22BCS091]</td>
+            <td>Sahil Atri   [22BCS091]</td>
             <td rowspan="4">Technique for Underwater Image Enhancement</td>
             <td><a href="https://www.linkedin.com/in/sahil-atri-279940263/">LinkedIn</a></td>
             <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
