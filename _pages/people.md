@@ -49,7 +49,7 @@ permalink: /people/
     <tbody>
         <tr>
             <td>Ph.D</td>
-            <td>Shorav Verma</td>
+            <td>Shorav Verma [25RCS010]</td>
             <td>Development of Deep learning Approach for Image Enhancement in Adverse Visual Conditions</td>
             <td><a href="https://scholar.google.com/citations?hl=en&user=qGyUdlcAAAAJ">Google Scholar</a></td>
             <td><a href="https://scholar.google.com/citations?hl=en&user=qGyUdlcAAAAJ">Ph.D. Candidate, NIT Hamirpur</a></td>
@@ -148,7 +148,7 @@ permalink: /people/
     <tbody>
         <tr>
             <td>M.Tech</td>
-            <td>Malika Sood</td>
+            <td>Malika Sood [195562]</td>
             <td>Revolutionizing Tomato Agriculture: Leaf Disease Detection using CNN and its Variants</td>
             <td><a href="http://linkedin.com/in/msood19">LinkedIn</a></td>
             <td>BNY Mellon</td>
@@ -158,7 +158,7 @@ permalink: /people/
         </tr>
         <tr>
             <td>M.Tech</td>
-            <td>Ajay Kumar</td>
+            <td>Ajay Kumar [22MCS019]</td>
             <td>Enhancing Hindi Named Entity Recognition using XLM-RoBERTa</td>
             <td><a href="https://www.linkedin.com/in/ajay-kumar-193775244">LinkedIn</a></td>
             <td>Netsmartz Academy</td>
@@ -168,7 +168,7 @@ permalink: /people/
         </tr>
         <tr>
             <td>M.Tech</td>
-            <td>Sakshi</td>
+            <td>Sakshi [22MCS113]</td>
             <td>Deep Learning Based Watermarking for Electronic Health Records</td>
             <td>-</td>
             <td>-</td>
@@ -178,7 +178,7 @@ permalink: /people/
         </tr>
         <tr>
             <td>M.Tech</td>
-            <td>Nidhi Singh</td>
+            <td>Nidhi Singh [22MCS109]</td>
             <td>Fine-Grained Birds Classification</td>
             <td>-</td>
             <td>-</td>
@@ -188,7 +188,7 @@ permalink: /people/
         </tr>
          <tr>
             <td>M.Tech</td>
-            <td>Sourabh Sharma</td>
+            <td>Sourabh Sharma [23MCS021]</td>
             <td>Deep Convolution Neural Network and Handcrafted Feature Fusion Techniques for Image Retrieval</td>
             <td><a href="https://www.linkedin.com/in/sourabh-sharma-a487191b2/">LinkedIn</a></td>
             <td><a href="https://www.linkedin.com/company/warner-bros-discovery/">Warner Bros. Discovery</a></td>
@@ -198,7 +198,7 @@ permalink: /people/
         </tr>
         <tr>
             <td>M.Tech</td>
-            <td>Atul Sharma</td>
+            <td>Atul Sharma [23MCS109]</td>
             <td>Attention based deep learning approach for fingerprint liveness detection</td>
             <td><a href="https://www.linkedin.com/in/atul-sharma-42bbb42a89/">LinkedIn</a></td>
             <td>-</td>
@@ -208,7 +208,7 @@ permalink: /people/
         </tr>
         <tr>
             <td>M.Tech</td>
-            <td>Sameer Mirza</td>
+            <td>Sameer Mirza [23MCS120]</td>
             <td>Enhanced Small Object Detection in Aerial Imagery using Deep Cross Block and YOLOv9 Fusion</td>
             <td><a href="https://www.linkedin.com/in/sameermirza25/">LinkedIn</a></td>
             <td>-</td>
