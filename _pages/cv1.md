@@ -68,6 +68,10 @@ Conference & Workshop Organization
 ======
 * **Organizing Secretary**, *2nd International Conference on Artificial Intelligence, Machine Learning and Intelligent Systems (ICAMS 2025)*, NIT Hamirpur.
 * **Coordinator**, *International Short Term Course on "Research Applications of Deep Learning"*, NIT Hamirpur, July 2024.
+
+----
+Conference Technical Program Committee & Session Chair Role
+======
 * **Technical Session Co-Chair**, *International Conference on Recent Trends in Transport Phenomena (RTTP 2024)*, NIT Hamirpur.
 * **Technical Session Co-Chair**, *5th International Conference on Machine Learning, Image Processing, Network Security and Data Sciences (MIND 2023)*, NIT Hamirpur.
 
