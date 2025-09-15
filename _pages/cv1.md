@@ -78,7 +78,7 @@ Service and Leadership
 * **Assistant Faculty In-charge (AFI)**, Cultural Activities & Clubs (Sangeet), *NIT Hamirpur*, Aug 2024 - Present
 * **Officer In-Charge (OIC)**, Department Research Laboratory, *NIT Hamirpur*, Feb 2024 - Present
 * **Officer In-Charge (OIC)**, Department Infrastructure, *NIT Hamirpur*, Feb 2024 - Present
-* ### Professional Memberships
+ ### Professional Memberships
 * Life Member, *Indian Unit for Pattern Recognition and Artificial Intelligence (IUPRAI)*
 * Member, *Institute of Electrical and Electronics Engineers (IEEE)*
 * Member, *Association for Computing Machinery (ACM)*
