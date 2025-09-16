@@ -9,22 +9,22 @@ author_profile: true
     
  
 <li>
-<b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, Susanta Mukhopadhyay, ”Video Retrieval Framework based on Color Co-occurrence Feature of Adaptive Low Rank Extracted Keyframes and Graph Pattern Matching,”, in Information Processing & Management (Elsevier), 2022.
+<b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, Susanta Mukhopadhyay, ”Video Retrieval Framework based on Color Co-occurrence Feature of Adaptive Low Rank Extracted Keyframes and Graph Pattern Matching,”, in Information Processing & Management (Elsevier), DOI: https://doi.org/10.1016/j.ipm.2022.102870, (2022).
 </li>
 <li>
-Mukul Majhi,<b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>”Random Projection and Hashing based Privacy Preserving for Image Retrieval Paradigm using Invariant and Clustered Feature”, in Journal of King Saud University-Computer and Information Sciences(Elsevier), 2022.
+Mukul Majhi,<b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>”Random Projection and Hashing based Privacy Preserving for Image Retrieval Paradigm using Invariant and Clustered Feature”, in Journal of King Saud University-Computer and Information Sciences(Elsevier), DOI: https://doi.org/10.1016/j.jksuci.2022.04.018, (2022).
 </li>
  <li>
-<b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, Susanta Mukhopadhyay, ”Video retrieval using salient foreground region of motion vector based extracted keyframes and spatial pyramid matching”, in Multimedia Tools and Applications (Springer), 2020.
+<b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, Susanta Mukhopadhyay, ”Video retrieval using salient foreground region of motion vector based extracted keyframes and spatial pyramid matching”, in Multimedia Tools and Applications (Springer), DOI: https://doi.org/10.1007/s11042-020-09312-8, (2020).
   </li>
 
 </ol>
  <h3> Conferences </h3>
   <ol>
-   <li>   Sourabh Sharma, <b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, "Fusion of Handcrafted and Deep Convolution Networks Learned Features for Image Retrieval." IEEE 6th International Conference on Recent Advances in Information Technology (RAIT), pp. 1-6, 2025, DOI: 10.1109/RAIT65068.2025.11088972.
+   <li>   Sourabh Sharma, <b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, "Fusion of Handcrafted and Deep Convolution Networks Learned Features for Image Retrieval." IEEE 6th International Conference on Recent Advances in Information Technology (RAIT), pp. 1-6, 2025, DOI: 10.1109/RAIT65068.2025.11088972, (2025).
 </li>
 <li>
-  Malika Sood, Jyoti Srivastava, <b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, “Revolutionizing Tomato Agriculture: Leaf Disease Detection Using CNN and Its Variants”, IEEE 9th International Conference for Convergence in Technology (I2CT)¸ 2024.
+  Malika Sood, Jyoti Srivastava, <b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, “Revolutionizing Tomato Agriculture: Leaf Disease Detection Using CNN and Its Variants”, IEEE 9th International Conference for Convergence in Technology (I2CT)¸ 2024. DOI: 10.1109/I2CT61223.2024.10544294, (2024).
       </li>
   <li>
 <b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, and Susanta Mukhopadhyay, “Video Retrieval based on Motion Vector Key Frame Extraction and Spatial Pyramid Matching”, 6th
