@@ -21,6 +21,8 @@ Mukul Majhi,<b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>”
 </ol>
  <h3> Conferences </h3>
   <ol>
+   <li>   Sourabh Sharma, <b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, "Fusion of Handcrafted and Deep Convolution Networks Learned Features for Image Retrieval." IEEE 6th International Conference on Recent Advances in Information Technology (RAIT), pp. 1-6, 2025, DOI: 10.1109/RAIT65068.2025.11088972.
+</li>
 <li>
   Malika Sood, Jyoti Srivastava, <b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, “Revolutionizing Tomato Agriculture: Leaf Disease Detection Using CNN and Its Variants”, IEEE 9th International Conference for Convergence in Technology (I2CT)¸ 2024.
       </li>
