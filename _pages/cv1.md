@@ -79,7 +79,7 @@ Service and Leadership
 ### Administrative Roles
 * **Single Point of Contact (SPOC)**, <a href="https://www.sih.gov.in/">Smart India Hackathon 2025</a>, *NIT Hamirpur*, Aug 2025 - Present
 * **Assistant Faculty In-charge (AFI)**, Cultural Activities & Clubs (Sangeet), *NIT Hamirpur*, Aug 2024 - Present
-* **Officer In-Charge (OIC)**, Department Research Laboratory, *NIT Hamirpur*, Feb 2024 - Present
+* **Officer In-Charge (OIC)**, Department Programming Laboratory 6, *NIT Hamirpur*, Feb 2024 - Present
 * **Officer In-Charge (OIC)**, Department Infrastructure, *NIT Hamirpur*, Feb 2024 - Present
   
 ### Professional Memberships
