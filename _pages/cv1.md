@@ -115,7 +115,7 @@ Service and Leadership
 * 
 ### Conference Reviewer
 * 10th International Conference on Computer Vision & Image Processing <a href="https://iitrpr.ac.in/cvip2025">(CVIP 2025) </a>, to be organized by IIT, Ropar, India, 10-13 December, 2025.
-* * 5th International Conference on Artificial Intelligence and Security <a href="https://link.springer.com/book/10.1007/978-3-030-24274-9">(ICAIS 2019) </a>, organized at New York, NY, USA, 26-28 July 2019.
+* 5th International Conference on Artificial Intelligence and Security <a href="https://link.springer.com/book/10.1007/978-3-030-24274-9">(ICAIS 2019) </a>, organized at New York, NY, USA, 26-28 July 2019.
 * 3rd International Conference on Fuzzy Systems and Data Mining <a href="https://www.aconf.org/conf_103570">(FSDM 2017) </a>  co-organized by National Dong Hwa University (NDHU), Taiwan, 24-27 November 2017.
 
 
