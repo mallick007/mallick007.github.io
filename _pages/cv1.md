@@ -98,7 +98,7 @@ Service and Leadership
 * **Technical Session Co-Chair**, *5th International Conference on Machine Learning, Image Processing, Network Security and Data Sciences, <a href="https://mind2023.nith.ac.in/">(MIND 2023) </a>, organized by Department of Computer Science and Engineering, NIT Hamirpur, 21-22 December, 2023.
 
 ### Conference Advisary/ Technical Program Committee
-* **Technical Program Committee**, International Conference on Recent Trends in Intelligent Computing Manufacturing and Electronics, <a href="https://rtime2025.netlify.app/">(rTIME-202) </a>, to be organized by the Department of Electronics and Computer Engineering, National Institute of Advanced Manufacturing Technology, Ranchi, Jharkhand – 834004, India, 05-07, December, 2025.
+* **Technical Program Committee**, International Conference on Recent Trends in Intelligent Computing Manufacturing and Electronics, <a href="https://rtime2025.netlify.app/">(rTIME-2025) </a>, to be organized by the Department of Electronics and Computer Engineering, National Institute of Advanced Manufacturing Technology, Ranchi, Jharkhand – 834004, India, 05-07, December, 2025.
 
 * **National Advisory Committee**, International Conference on Computational Intelligence for Sustainable Development, <a href="https://www.iccisd.com/commitee">(ICCISD 2026)</a>, Organized by Department of Computer Science and Applications, Sharda School of Computing Science & Engineering, Sharda University, Greater Noida, India, 23 - 24 July 2026.
   
