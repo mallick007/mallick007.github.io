@@ -29,7 +29,7 @@ permalink: /cs311-ada1/
 
 <h3>Time Slot</h3>
 <p>
-  <b>Monday:</b> 09:00 AM - 10:00 AM, 03:00 PM - 04:00 PM
+  <b>Monday:</b> 09:00 AM - 10:00 AM, 03:00 PM - 04:00 PM<br>
   <b>Tuesday:</b> 09:00 AM - 10:00 AM<br>
   <b>Wednesday:</b> 03:00 PM - 04:00 PM<br>
   <b>Friday:</b> 09:00 AM - 10:00 AM, 03:00 PM - 04:00 PM
