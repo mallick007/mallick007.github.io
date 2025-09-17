@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Analysis & Design of Algorithms CS-311
-permalink: /cs311-ada/
+permalink: /cs311-ada1/
 ---
 
 <div style="margin: 0 8%;">
