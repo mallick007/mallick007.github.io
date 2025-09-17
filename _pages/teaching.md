@@ -7,7 +7,7 @@ author_profile: true
 
 <h3>Odd Semester 2025-26</h3>
 <ul>
-  <li><a href="/cs311-ada">Analysis & Design of Algorithms (CS-311)</a></li>
+  <li><a href="/cs311-ada1">Analysis & Design of Algorithms (CS-311)</a></li>
 </ul>
 
 <h3>Even Semester 2024-25</h3>
