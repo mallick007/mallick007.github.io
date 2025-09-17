@@ -109,9 +109,14 @@ Service and Leadership
 * **Technical Program Committee**, 6th International Conference on Recent Advances in Information Technology, <a href="https://people.iitism.ac.in/~rait/tpc.html">(RAIT 2025) </a>, Organized by Department of Computer Science and Engineering, Indian Institute of Technology, (ISM) Dhanbad,  Jharkhand, India,  6-8  March, 2025.
 
 ### Journal Reviewer
-* <a href="https://link.springer.com/journal/11760">Signal, Image and Video Processing) </a>Signal, Image and Video Processing, Electronic ISSN 1863-1711
+* <a href="https://link.springer.com/journal/11760">Signal, Image and Video Processing </a>, Springer, Electronic ISSN 1863-1711.
+* <a href="https://www.sciencedirect.com/journal/information-processing-and-management">Information Processing and Management</a>, Elsevier, Online ISSN: 1873-5371,  Print ISSN: 0306-4573.
+* <a href="https://journals.plos.org/plosone/">PloS one</a>, Elsevier,  Online ISSN: 1932-6203.
+* 
 ### Conference Reviewer
 * 10th International Conference on Computer Vision & Image Processing <a href="https://iitrpr.ac.in/cvip2025">(CVIP 2025) </a>, to be organized by IIT, Ropar, India, 10-13 December, 2025.
+* 3rd International Conference on Fuzzy Systems and Data Mining <a href="https://www.aconf.org/conf_103570">(FSDM 2017) </a>  co-organized by National Dong Hwa University (NDHU), Taiwan, 24-27 November 2017.
+* 5th International Conference on Artificial Intelligence and Security <a href="https://link.springer.com/book/10.1007/978-3-030-24274-9">(ICAIS 2019) </a>, organized at New York, NY, USA, 26-28 July 2019.
 
 
 
