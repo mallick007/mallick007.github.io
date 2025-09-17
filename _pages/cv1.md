@@ -108,6 +108,11 @@ Service and Leadership
 
 * **Technical Program Committee**, 6th International Conference on Recent Advances in Information Technology, <a href="https://people.iitism.ac.in/~rait/tpc.html">(RAIT 2025) </a>, Organized by Department of Computer Science and Engineering, Indian Institute of Technology, (ISM) Dhanbad,  Jharkhand, India,  6-8  March, 2025.
 
+### Journal Reviewer
+* <a href="https://link.springer.com/journal/11760">Signal, Image and Video Processing) </a>Signal, Image and Video Processing, Electronic ISSN 1863-1711
+### Conference Reviewer
+* 10th International Conference on Computer Vision & Image Processing <a href="https://iitrpr.ac.in/cvip2025">(CVIP 2025) </a>, to be organized by IIT, Ropar, India, 10-13 December, 2025.
+
 
 
 
