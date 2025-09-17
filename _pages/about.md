@@ -21,7 +21,7 @@ redirect_from:
 * **[March, 2025]** The paper by my M.Tech scholar, Sourabh Sharma, <a href="https://ieeexplore.ieee.org/abstract/document/11088972?casa_token=_qW7835jtY8AAAAA:hceHVmNskVVdDmLfkUJbzOx_ETXb47wARyo-HW3XGm9QowaVFn5i6l2Vmkqe6KR3JIw-eusXtsQ">"Fusion of Handcrafted and Deep Convolution Networks Learned Features for Image Retrievals,"</a> was successfully published and presented at RAIT 2025. 
 * **[February, 2025]** Served as an Organising Secretary for the 2nd International Conference on Artificial Intelligence, Machine Learning and Intelligent Systems <a href="https://sites.google.com/nith.ac.in/icams2025/home">(ICAMS)</a>, a successful collaboration held at NIT Hamirpur with IIT Roorkee and IUST J&K, India.
 * **[July, 2024]** Successfully organized an online short-term course (e-STC) on the topic <a href="https://nith.ac.in/uploads/topics/estc-csed17177438577130.pdf">"Research Applications in Deep Learning"</a> for aspiring researchers.
-* 
+
 ## Work Experience
 <p class="common_list bullet_list edu_list"> Assistant Professor (Grade-II) [2023(Sep) - Present]
 <br><font size="3" color="gray"> National Institite of Technology Hamirpur, India</font>
