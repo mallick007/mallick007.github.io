@@ -44,19 +44,19 @@ Selected Publications
 *A complete list is available on my [Google Scholar profile](https://scholar.google.com/citations?user=tNA_6VYAAAAJ&hl=en&oi=ao).*
 
 ### Journals
-* **Ajay Kumar Mallick**, S. Mukhopadhyay, ”Video Retrieval Framework based on Color Co-occurrence Feature of Adaptive Low Rank Extracted Keyframes and Graph Pattern Matching,” in *Information Processing & Management (Elsevier)*, 2022.
-* M. Majhi, **Ajay Kumar Mallick**, ”Random Projection and Hashing based Privacy Preserving for Image Retrieval Paradigm using Invariant and Clustered Feature”, in *Journal of King Saud University-Computer and Information Sciences (Elsevier)*, 2022.
-* **Ajay Kumar Mallick**, S. Mukhopadhyay, ”Video retrieval using salient foreground region of motion vector based extracted keyframes and spatial pyramid matching”, in *Multimedia Tools and Applications (Springer)*, 2020.
+* **Ajay Kumar Mallick**, S. Mukhopadhyay, ”Video Retrieval Framework based on Color Co-occurrence Feature of Adaptive Low Rank Extracted Keyframes and Graph Pattern Matching,” in *Information Processing & Management (Elsevier)*, (2022).
+* M. Majhi, **Ajay Kumar Mallick**, ”Random Projection and Hashing based Privacy Preserving for Image Retrieval Paradigm using Invariant and Clustered Feature”, in *Journal of King Saud University-Computer and Information Sciences (Elsevier)*, (2022).
+* **Ajay Kumar Mallick**, S. Mukhopadhyay, ”Video retrieval using salient foreground region of motion vector based extracted keyframes and spatial pyramid matching”, in *Multimedia Tools and Applications (Springer)*, (2020).
 
 ### Conferences
 
-* Atul Sharma, **Ajay Kumar Mallick** , "AttentiveFP: An Attention-Guided Deep Learning Approach for Fingerprint Liveness Detection." IEEE International Conference on Computer, Electronics, Electrical Engineering & their Applications (IC2E3)", pp. 1-6, 2025, DOI: 10.1109/IC2E365635.2025.11166886, (2025).
+* Atul Sharma, **Ajay Kumar Mallick** , "AttentiveFP: An Attention-Guided Deep Learning Approach for Fingerprint Liveness Detection." IEEE International Conference on Computer, Electronics, Electrical Engineering & their Applications (IC2E3)", pp. 1-6, DOI: 10.1109/IC2E365635.2025.11166886, (2025).
   
-* Sourabh Sharma, **Ajay Kumar Mallick** , "Fusion of Handcrafted and Deep Convolution Networks Learned Features for Image Retrieval." IEEE 6th International Conference on Recent Advances in Information Technology (RAIT), pp. 1-6, 2025, DOI: 10.1109/RAIT65068.2025.11088972, (2025).
+* Sourabh Sharma, **Ajay Kumar Mallick** , "Fusion of Handcrafted and Deep Convolution Networks Learned Features for Image Retrieval." IEEE 6th International Conference on Recent Advances in Information Technology (RAIT), pp. 1-6, DOI: 10.1109/RAIT65068.2025.11088972, (2025).
 
-* Malika Sood, Jyoti Srivastava, **Ajay Kumar Mallick**, "Revolutionizing Tomato Agriculture: Leaf Disease Detection Using CNN and Its Variants", *IEEE 9th International Conference for Convergence in Technology (I2CT)*, 2024, DOI: 10.1109/I2CT61223.2024.10544294
+* Malika Sood, Jyoti Srivastava, **Ajay Kumar Mallick**, "Revolutionizing Tomato Agriculture: Leaf Disease Detection Using CNN and Its Variants", *IEEE 9th International Conference for Convergence in Technology (I2CT)*, DOI: 10.1109/I2CT61223.2024.10544294, (2024).
   
-* **Ajay Kumar Mallick**, Sushila Mukhopadhyay, "Video Retrieval based on Motion Vector Key Frame Extraction and Spatial Pyramid Matching", *6th International Conference on Signal Processing and Integrated Networks (SPIN), IEEE, 2019, DOI: 10.1109/SPIN.2019.8711781
+* **Ajay Kumar Mallick**, Sushila Mukhopadhyay, "Video Retrieval based on Motion Vector Key Frame Extraction and Spatial Pyramid Matching", *6th International Conference on Signal Processing and Integrated Networks (SPIN), IEEE, DOI: 10.1109/SPIN.2019.8711781, (2019).
   
 * **Ajay Kumar Mallick**, and Sushila Maheshkar, "Near-Duplicate Video Retrieval Based on Spatio Temporal Pattern Tree", Proceedings of 2nd International Conference
 on Computer Vision & Image Processing, Springer, pp.173-186, DOI: https://doi.org/10.1007/978-981-10-7895-8_14, (2018).
