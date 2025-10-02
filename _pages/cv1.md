@@ -54,9 +54,9 @@ Selected Publications
   
 * Sourabh Sharma, **Ajay Kumar Mallick** , "Fusion of Handcrafted and Deep Convolution Networks Learned Features for Image Retrieval." IEEE 6th International Conference on Recent Advances in Information Technology (RAIT), pp. 1-6, 2025, DOI: 10.1109/RAIT65068.2025.11088972, (2025).
 
-* Malika Sood, Jyoti Srivastava, **Ajay Kumar Mallick**, "Revolutionizing Tomato Agriculture: Leaf Disease Detection Using CNN and Its Variants", *IEEE 9th International Conference for Convergence in Technology (I2CT)*, 2024.
+* Malika Sood, Jyoti Srivastava, **Ajay Kumar Mallick**, "Revolutionizing Tomato Agriculture: Leaf Disease Detection Using CNN and Its Variants", *IEEE 9th International Conference for Convergence in Technology (I2CT)*, 2024, DOI: 10.1109/I2CT61223.2024.10544294
   
-* **Ajay Kumar Mallick**, Sushila Mukhopadhyay, "Video Retrieval based on Motion Vector Key Frame Extraction and Spatial Pyramid Matching", *6th International Conference on Signal Processing and Integrated Networks (SPIN), IEEE, 2019.
+* **Ajay Kumar Mallick**, Sushila Mukhopadhyay, "Video Retrieval based on Motion Vector Key Frame Extraction and Spatial Pyramid Matching", *6th International Conference on Signal Processing and Integrated Networks (SPIN), IEEE, 2019, DOI: 10.1109/SPIN.2019.8711781
   
 * **Ajay Kumar Mallick**, and Sushila Maheshkar, "Near-Duplicate Video Retrieval Based on Spatio Temporal Pattern Tree", Proceedings of 2nd International Conference
 on Computer Vision & Image Processing, Springer, pp.173-186, DOI: https://doi.org/10.1007/978-981-10-7895-8_14, (2018).
@@ -64,16 +64,16 @@ on Computer Vision & Image Processing, Springer, pp.173-186, DOI: https://doi.or
 * Aniket Ninawe,**Ajay Kumar Mallick** , Vikash Yadav, Hifzan Ahmad, Dinesh Kumar Sah, and Cornel Barna. "Cathedral and Indian Mughal Monument Recognition
 Using Tensorflow", In International Workshop Soft Computing Applications, Springer, pp. 186-196,DOI: https://doi.org/10.1007/978-3-030-51992-6_16 , (2018).
 
-* Mukul Kirti Verma, Rajesh Dwivedi,**Ajay Kumar Mallick**, "Dimensionality Reduction Technique on SIFT Feature Vector for Content Based Image Retrival", In International Conference on Recent Trends in Image Processing and Pattern Recognition, Springer, pp. 383-394, DOI:https://doi.org/10.1007/978-981-13-9181-1_34, (2018).
+* Mukul Kirti Verma, Rajesh Dwivedi,**Ajay Kumar Mallick**, "Dimensionality Reduction Technique on SIFT Feature Vector for Content Based Image Retrival", In International Conference on Recent Trends in Image Processing and Pattern Recognition, Springer, pp. 383-394, DOI: https://doi.org/10.1007/978-981-13-9181-1_34, (2018).
 
 * Susila Maheshkar, Bhavishya Mathur, Raj Roushan, and  **Ajay Kumar Mallick** , "Automatic Hadoop cluster deployment and Management tool", In 2017 Third International
-Conference on Research in Computational Intelligence and Communication Networks (ICRCICN), IEEE,pp. 163-168, DOI:10.1109/ICRCICN.2017.8234500, (2017)
+Conference on Research in Computational Intelligence and Communication Networks (ICRCICN), IEEE,pp. 163-168, DOI: 10.1109/ICRCICN.2017.8234500, (2017)
 
 * **Ajay Kumar Mallick**, and Sushila Maheshkar, "Video Retrieval Based on Color Correlation Histogram Scheme of Clip Segmented Key Frames",Fourth International
 Conference on Parallel, Distributed and Grid Computing (PDGC), IEEE, pp.213-218, DOI: 10.1109/PDGC.2016.7913148, (2016).
 
 * **Ajay Kumar Mallick**, and Sushila Maheshkar. "Digital image watermarking scheme based on visual cryptography and SVD" , In Proceedings of the 4th
-International Conference on Frontiers in Intelligent Computing: Theory and Applications (FICTA) 2015, Springer, pp. 589-598, DOI:https://doi.org/10.1007/
+International Conference on Frontiers in Intelligent Computing: Theory and Applications (FICTA) 2015, Springer, pp. 589-598, DOI: https://doi.org/10.1007/
 978-81-322-2695-6_50, (2016).
 
 ---
