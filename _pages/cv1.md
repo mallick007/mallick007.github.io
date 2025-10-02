@@ -134,7 +134,7 @@ Service and Leadership
 ### Journal Reviewer
 * <a href="https://link.springer.com/journal/11760">Signal, Image and Video Processing </a>, Springer, Electronic ISSN 1863-1711.
 * <a href="https://www.sciencedirect.com/journal/information-processing-and-management">Information Processing and Management</a>, Elsevier, Online ISSN: 1873-5371,  Print ISSN: 0306-4573.
-* <a href="https://journals.plos.org/plosone/">PloS one</a>, Elsevier,  Online ISSN: 1932-6203.
+* <a href="https://journals.plos.org/plosone/">PloS one</a>, Public Library of Science, Online ISSN: 1932-6203.
   
 ### Conference Reviewer
 * 10th International Conference on Computer Vision & Image Processing <a href="https://iitrpr.ac.in/cvip2025">(CVIP 2025) </a>, to be organized by IIT, Ropar, India, 10-13 December, 2025.
