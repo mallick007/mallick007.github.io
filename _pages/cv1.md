@@ -41,7 +41,7 @@ Technical Skills
 
 Selected Publications
 ======
-*A complete list is available on my [Google Scholar profile](https://scholar.google.com/citations?user=tNA_6VYAAAAJ&hl=en&oi=ao).*
+
 
 ### Journals
 * **Ajay Kumar Mallick**, S. Mukhopadhyay, ”Video Retrieval Framework based on Color Co-occurrence Feature of Adaptive Low Rank Extracted Keyframes and Graph Pattern Matching,” in *Information Processing & Management (Elsevier)*, (2022).
