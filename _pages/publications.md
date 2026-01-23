@@ -21,6 +21,8 @@ Mukul Majhi,<b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>”
 </ol>
  <h3> Conferences </h3>
   <ol>
+         <li>   Sameer Mirza, <b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, "Fusion of Deep Cross Block Stage and YOLOv9 for Enhanced Small Object Detection in Aerial Imagery."IEEE International Conference on Computer, Electronics, Electrical Engineering & their Applications (IC2E3)", pp. 1-6, 2025, DOI: 10.1109/IC2E365635.2025.11167338, (2025).
+</li>
    <li>   Atul Sharma, <b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, "AttentiveFP: An Attention-Guided Deep Learning Approach for Fingerprint Liveness Detection." IEEE International Conference on Computer, Electronics, Electrical Engineering & their Applications (IC2E3)", pp. 1-6, 2025, DOI: 10.1109/IC2E365635.2025.11166886, (2025).
 </li>
       
