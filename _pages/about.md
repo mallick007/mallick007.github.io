@@ -14,7 +14,7 @@ redirect_from:
 * Digital image security and analysis, content-based image and video retrieval, computer vision, and machine learning are some of his areas of interest and research and have contributed to and reviewed papers for numerous highly esteemed international conferences and Science Citation Indexed Journals (SCI).
 
 ## Recent News 
-* **[September, 2025]** Honored to act as the Single Point of Contact (SPOC) for the <a href="https://www.sih.gov.in/">Internal Smart India Hackathon 2025</a> hosted at NIT Hamirpur.
+* **[February, 2025]** NIT Hamirpur Google Developer Group is going to organise "Abyss" an internal technical event from 6th to 8th February 2026 hosted at NIT Hamirpur.
 * **[September, 2025]** Our paper, "A Comprehensive Survey of Content-based Image Retrieval Schemes: Advancements, Challenges, and Future Directions," has been accepted for publication in the prestigious <a href="https://link.springer.com/journal/11042">Multimedia Tools and Applications</a> journal. 
 * **[June, 2025]** Thrilled to announce that the research work of my M.Tech scholar, Sameer Mirza, titled "Fusion of Deep Cross Block Stage and YOLOv9 for Enhanced Small Object Detection in Aerial Imagery," was published in  IEEE International Conference on Computer, Electronics, Electrical Engineering & their Applications <a href="https://ieeexplore.ieee.org/abstract/document/11167338">IC2E3 2025</a>.
 * **[May, 2025]** Congratulations to my M.Tech scholar, Atul Sharma! His paper, "AttentiveFP: An Attention-Guided Deep Learning Approach for Fingerprint Liveness Detection," was presented at <a href="https://academicalerts.org/events/2025-IC2E3-2">IC2E3-2025</a>.
