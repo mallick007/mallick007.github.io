@@ -27,7 +27,7 @@ redirect_from:
 <p class="common_list bullet_list edu_list"> Assistant Professor (Grade-II) [2023(Sep) - Present]
 <br><font size="3" color="gray"> National Institite of Technology Hamirpur, India</font>
 </p>
-<p class="common_list bullet_list edu_list"> Assistnat Professor [2022(June) - 2023(May)]
+<p class="common_list bullet_list edu_list"> Assistant Professor [2022(June) - 2023(May)]
 <br><font size="3" color="gray"> VIT-AP University, India</font>
 </p>
 <p class="common_list bullet_list edu_list"> Teaching Personal [2015(Aug) - 2015(Dec ) ]
