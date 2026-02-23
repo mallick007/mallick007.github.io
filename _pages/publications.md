@@ -6,7 +6,9 @@ author_profile: true
 ---
 <h3> Journals </h3>
 <ol>
-    
+  <li>
+<b> <span  style="color: Maroon;"> Mukul Majhi</span> </b>,Ajay Kumar Mallick, ”A comprehensive survey of content based image retrieval schemes: advancements, challenges, and future directions,”, in Multimedia Tools and Applications (Springer), DOI: https://doi.org/10.1007/s11042-026-21337-z, (2026).
+</li>  
  
 <li>
 <b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, Susanta Mukhopadhyay, ”Video Retrieval Framework based on Color Co-occurrence Feature of Adaptive Low Rank Extracted Keyframes and Graph Pattern Matching,”, in Information Processing & Management (Elsevier), DOI: https://doi.org/10.1016/j.ipm.2022.102870, (2022).
