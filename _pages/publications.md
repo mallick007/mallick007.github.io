@@ -7,7 +7,7 @@ author_profile: true
 <h3> Journals </h3>
 <ol>
   <li>
-Mukul Majhi,<b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, ”A comprehensive survey of content based image retrieval schemes: advancements, challenges, and future directions,”, in Multimedia Tools and Applications (Springer), DOI: https://doi.org/10.1007/s11042-026-21337-z, (2026).
+Mukul Majhi,<b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b> ”A comprehensive survey of content based image retrieval schemes: advancements, challenges, and future directions,”, in Multimedia Tools and Applications (Springer), DOI: https://doi.org/10.1007/s11042-026-21337-z, (2026).
 </li>  
  
 <li>
