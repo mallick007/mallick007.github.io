@@ -140,8 +140,8 @@ permalink: /people/
             <td>A Patch-wise Feature-Based Framework for Image Anomaly Detection and Localization</td>
             <td><a href="https://www.linkedin.com/in/abhishek-badwaik-624685383">LinkedIn</a></td>
             <td>NIT Hamirpur</td>
-            <td>Ongoing</td>
-            <td>2025</td>
+            <td>Completed</td>
+            <td>2026</td>
             <td>-</td>
         </tr>
         <tr>
@@ -150,8 +150,8 @@ permalink: /people/
             <td>LargeScaleImageRetrievalusingMulti-PositiveMulti-NegativeSupervisedHashing</td>
             <td>-</td>
             <td>-</td>
-            <td>Ongoing</td>
-            <td>2025</td>
+            <td>Completed</td>
+            <td>2026</td>
             <td>-</td>
         </tr>
         <tr>
@@ -160,8 +160,8 @@ permalink: /people/
             <td>Degradation-Adaptive Physics-Guided Latent Diffusion for Zero-Shot Low-Light Image Enhancement</td>
             <td><a href="https://www.linkedin.com/in/archish-k-0408892b3/">LinkedIn</a></td>
             <td>-</td>
-            <td>Ongoing</td>
-            <td>2025</td>
+            <td>Completed</td>
+            <td>2026</td>
             <td>-</td>
         </tr>
         <tr>
@@ -170,8 +170,8 @@ permalink: /people/
             <td>Robust Endoscopic Image Analysis Using Bi-Level Meta-Learning and Supervised Contrastive Geometry</td>
             <td><a href="https://www.linkedin.com/in/tanmay-patel-9266812a5">LinkedIn</a></td>
             <td>NIT Hamirpur</td>
-            <td>Ongoing</td>
-            <td>2025</td>
+            <td>Completed</td>
+            <td>2026</td>
             <td>-</td>
         </tr>
         <tr>
@@ -180,8 +180,8 @@ permalink: /people/
             <td>Underwater Image Enhancement using Reinforcement Learning and Physics-Guided Dual-Domain Architectures</td>
             <td><a href="https://www.linkedin.com/in/vaishali2054">LinkedIn</a></td>
             <td>Atlassian</td>
-            <td>Ongoing</td>
-            <td>2025</td>
+            <td>Completed</td>
+            <td>2026</td>
             <td>-</td>
         </tr>
         <tr>
