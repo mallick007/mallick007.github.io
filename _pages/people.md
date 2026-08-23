@@ -92,8 +92,8 @@ permalink: /people/
             <td>M.Tech</td>
             <td>Niket Brajesh Singh [25MCS007]</td>
             <td>Deep Learning based soil content analysis</td>
-            <td>-</td>
-            <td>-</td>
+            <td><a href="https://in.linkedin.com/in/niket-singh-785865225?trk=people-guest_people_search-card">LinkedIn</a></td>                
+            <td>NIT Hamirpur</td>
             <td>Ongoing</td>
             <td>2026</td>
             <td>-</td>
