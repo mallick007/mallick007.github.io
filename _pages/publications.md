@@ -25,7 +25,7 @@ Mukul Majhi,<b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>”
 
 
 
-  <ol>
+  
 
       
         <li>   Sameer Mirza, <b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, "Fusion of Deep Cross Block Stage and YOLOv9 for Enhanced Small Object Detection in Aerial Imagery."IEEE International Conference on Computer, Electronics, Electrical Engineering & their Applications (IC2E3)", pp. 1-6, 2025, DOI: 10.1109/IC2E365635.2025.11167338, (2025).
