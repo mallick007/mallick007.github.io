@@ -145,8 +145,7 @@ permalink: /people/
             <th>Co-Supervisor(s)</th>
         </tr>
     </thead>
-    <tbody>
-        
+    <tbody>        
         <tr>
             <td>M.Tech</td>
             <td>Malika Sood [195562]</td>
