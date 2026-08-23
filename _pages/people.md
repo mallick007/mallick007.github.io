@@ -102,7 +102,7 @@ permalink: /people/
             <td>M.Tech</td>
             <td>Kunal [21DCS012]</td>
             <td>Solar Energy utilty evaluation</td>
-            <td><a href="https://www.linkedin.com/in/archish-k-0408892b3/">LinkedIn</a></td>
+             <td>-</td>
             <td>-</td>
             <td>Ongoing</td>
             <td>2026</td>
