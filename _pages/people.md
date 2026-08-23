@@ -184,16 +184,7 @@ permalink: /people/
             <td>2026</td>
             <td>-</td>
         </tr>
-        <tr>
-            <th>Programme Name</th>
-            <th>Scholar Name</th>
-            <th>Research Topic</th>
-            <th>Profile Link</th>
-            <th>Current Affiliation</th>
-            <th>Status</th>
-            <th>Year</th>
-            <th>Co-Supervisor(s)</th>
-        </tr>
+        
     </thead>
     <tbody> 
         <tr>
