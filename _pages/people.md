@@ -145,7 +145,37 @@ permalink: /people/
             <th>Co-Supervisor(s)</th>
         </tr>
     </thead>
-    <tbody>        
+    <tbody> 
+        <tr>
+            <td>M.Tech</td>
+            <td>Sourabh Sharma [23MCS021]</td>
+            <td>Deep Convolution Neural Network and Handcrafted Feature Fusion Techniques for Image Retrieval</td>
+            <td><a href="https://www.linkedin.com/in/sourabh-sharma-a487191b2/">LinkedIn</a></td>
+            <td><a href="https://www.linkedin.com/company/warner-bros-discovery/">Software Developer at Warner Bros. Discovery</a></td>
+            <td>Completed</td>
+            <td>2025</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>M.Tech</td>
+            <td>Atul Sharma [23MCS109]</td>
+            <td>Attention based deep learning approach for fingerprint liveness detection</td>
+            <td><a href="https://www.linkedin.com/in/atul-sharma-42bbb42a89/">LinkedIn</a></td>
+            <td>-</td>
+            <td>Completed</td>
+            <td>2025</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>M.Tech</td>
+            <td>Sameer Mirza [23MCS120]</td>
+            <td>Enhanced Small Object Detection in Aerial Imagery using Deep Cross Block and YOLOv9 Fusion</td>
+            <td><a href="https://www.linkedin.com/in/sameermirza25/">LinkedIn</a></td>
+            <td>-</td>
+            <td>Completed</td>
+            <td>2025</td>
+            <td>-</td>
+        </tr>    
         <tr>
             <td>M.Tech</td>
             <td>Malika Sood [195562]</td>
@@ -185,37 +215,7 @@ permalink: /people/
             <td>Completed</td>
             <td>2024</td>
             <td>Dr. Mohit Kumar</td>
-        </tr>
-         <tr>
-            <td>M.Tech</td>
-            <td>Sourabh Sharma [23MCS021]</td>
-            <td>Deep Convolution Neural Network and Handcrafted Feature Fusion Techniques for Image Retrieval</td>
-            <td><a href="https://www.linkedin.com/in/sourabh-sharma-a487191b2/">LinkedIn</a></td>
-            <td><a href="https://www.linkedin.com/company/warner-bros-discovery/">Software Developer at Warner Bros. Discovery</a></td>
-            <td>Completed</td>
-            <td>2025</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>M.Tech</td>
-            <td>Atul Sharma [23MCS109]</td>
-            <td>Attention based deep learning approach for fingerprint liveness detection</td>
-            <td><a href="https://www.linkedin.com/in/atul-sharma-42bbb42a89/">LinkedIn</a></td>
-            <td>-</td>
-            <td>Completed</td>
-            <td>2025</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>M.Tech</td>
-            <td>Sameer Mirza [23MCS120]</td>
-            <td>Enhanced Small Object Detection in Aerial Imagery using Deep Cross Block and YOLOv9 Fusion</td>
-            <td><a href="https://www.linkedin.com/in/sameermirza25/">LinkedIn</a></td>
-            <td>-</td>
-            <td>Completed</td>
-            <td>2025</td>
-            <td>-</td>
-        </tr>    
+        </tr>         
     </tbody>
 </table>
 
