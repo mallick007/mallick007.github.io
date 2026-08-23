@@ -216,8 +216,7 @@ permalink: /people/
             <td>Completed</td>
             <td>2025</td>
             <td>-</td>
-        </tr>
-    
+        </tr>    
     </tbody>
 </table>
 
