@@ -133,8 +133,20 @@ permalink: /people/
 
 <h4>Completed</h4>
 <table>
-    <thead>
-         <tr>
+    <thead>         
+        <tr>
+            <th>Programme Name</th>
+            <th>Scholar Name</th>
+            <th>Research Topic</th>
+            <th>Profile Link</th>
+            <th>Current Affiliation</th>
+            <th>Status</th>
+            <th>Year</th>
+            <th>Co-Supervisor(s)</th>
+        </tr>
+    </thead>
+    <tbody> 
+        <tr>
             <td>M.Tech</td>
             <td>Abhishek Badwaik [24MCS101]</td>
             <td>A Patch-wise Feature-Based Framework for Image Anomaly Detection and Localization</td>
@@ -184,18 +196,6 @@ permalink: /people/
             <td>2026</td>
             <td>-</td>
         </tr>
-        <tr>
-            <th>Programme Name</th>
-            <th>Scholar Name</th>
-            <th>Research Topic</th>
-            <th>Profile Link</th>
-            <th>Current Affiliation</th>
-            <th>Status</th>
-            <th>Year</th>
-            <th>Co-Supervisor(s)</th>
-        </tr>
-    </thead>
-    <tbody> 
         <tr>
             <td>M.Tech</td>
             <td>Sourabh Sharma [23MCS021]</td>
