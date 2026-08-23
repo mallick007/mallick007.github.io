@@ -26,6 +26,9 @@ Mukul Majhi,<b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>”
 
 
   <ol>
+
+        <li>   Vaishali Thakur, <b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, "A PPO-Based Framework for Sequential Underwater Image Enhancement in a Continuous Action Space."IEEE Fifth International Conference on Power, Control and Computing Technologies (ICPC2T)", pp. 499-504, 2026, DOI: 10.1109/ICPC2T68221.2026.11646304, (2026).
+</li>
          <li>   Sameer Mirza, <b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, "Fusion of Deep Cross Block Stage and YOLOv9 for Enhanced Small Object Detection in Aerial Imagery."IEEE International Conference on Computer, Electronics, Electrical Engineering & their Applications (IC2E3)", pp. 1-6, 2025, DOI: 10.1109/IC2E365635.2025.11167338, (2025).
 </li>
    <li>   Atul Sharma, <b> <span  style="color: Maroon;"> Ajay Kumar Mallick</span> </b>, "AttentiveFP: An Attention-Guided Deep Learning Approach for Fingerprint Liveness Detection." IEEE International Conference on Computer, Electronics, Electrical Engineering & their Applications (IC2E3)", pp. 1-6, 2025, DOI: 10.1109/IC2E365635.2025.11166886, (2025).
