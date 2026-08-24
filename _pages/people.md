@@ -50,7 +50,7 @@ permalink: /people/
         <tr>
             <td>Ph.D</td>
             <td>Shorav Verma [25RCS010]</td>
-            <td>Development of Deep learning based method to address degradation in underwater images</td>
+            <td>Development of Deep Learning based Methods to address Degradations in Underwater lmages</td>
             <td><a href="https://scholar.google.com/citations?hl=en&user=qGyUdlcAAAAJ">Google Scholar</a></td>
             <td><a href="https://scholar.google.com/citations?hl=en&user=qGyUdlcAAAAJ">Ph.D. Candidate, NIT Hamirpur</a></td>
             <td>Ongoing</td>
