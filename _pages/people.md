@@ -390,7 +390,7 @@ permalink: /people/
             <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
         </tr>
         <tr>
-            <td rowspan="2" style="text-align:center;">1</td>
+            <td rowspan="2" style="text-align:center;">4</td>
             <td>Tanmay Patel [21DCS001]</td>
             <td rowspan="2">Real-Time Edge Device Deployment for Small Object Detection and Surveillance Applications</td>
             <td><a href="https://www.linkedin.com/in/tanmay-patel-9266812a5">LinkedIn</a></td>
@@ -404,7 +404,7 @@ permalink: /people/
             <td>Atlassian</td>
         </tr>
         <tr>
-            <td rowspan="3" style="text-align:center;">2</td>
+            <td rowspan="3" style="text-align:center;">5</td>
             <td>Manik Bhatia [21BCS056]</td>
             <td rowspan="3">FaceForensics: Deep Learning Techniques for Forgery Detection in Facial Videos</td>
             <td><a href="https://www.linkedin.com/in/manik-bhatia-84711820b/">LinkedIn</a></td>
@@ -423,7 +423,7 @@ permalink: /people/
             <td>HCL Tech</td>
         </tr>
         <tr>
-            <td rowspan="4" style="text-align:center;">3</td>
+            <td rowspan="4" style="text-align:center;">6</td>
             <td>Ishan Guleria [21BCS022]</td>
             <td rowspan="4">ColorFlow QR: Blending Colors and Usability</td>
             <td><a href="https://www.linkedin.com/in/ishan-guleria-305681229/">LinkedIn</a></td>
