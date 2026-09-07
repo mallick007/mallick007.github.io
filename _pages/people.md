@@ -268,16 +268,16 @@ permalink: /people/
     <tbody>
         <tr>
             <td rowspan="4" style="text-align:center;">1</td>
-            <td>Sahil Atri   [22BCS091]</td>
-            <td rowspan="4">Adaptive Underwater Image Enhancement Approach for Improving Color Cast and Visibility Degradation</td>
-            <td><a href="https://www.linkedin.com/in/sahil-atri-279940263/">LinkedIn</a></td>
+            <td>SHimanshu Choudhary   [23DCS012]</td>
+            <td rowspan="3">Ai-Driven GIS Framework for Multi-Hazard Risk Assessment</td>
+            <td><a href="https://www.linkedin.com/in/himanshu-choudhary-2b1986289/">LinkedIn</a></td>
             <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
-            <td rowspan="4">2025-26</td>
-            <td rowspan="4">Completed</td>
+            <td rowspan="3">2025-26</td>
+            <td rowspan="3">Completed</td>
         </tr>
         <tr>
-            <td>Shreya Anand [22BCS106]</td>
-            <td><a href="https://www.linkedin.com/in/shreya-anand-2000a4278/">LinkedIn</a></td>
+            <td>Tanishka Khandelwal [23BCS115]</td>
+            <td><a href="https://www.linkedin.com/in/tanishka-khandelwal11/">LinkedIn</a></td>
             <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
         </tr>
         <tr>
