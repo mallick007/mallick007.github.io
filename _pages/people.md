@@ -267,13 +267,13 @@ permalink: /people/
     </thead>
     <tbody>
         <tr>
-            <td rowspan="4" style="text-align:center;">1</td>
-            <td>SHimanshu Choudhary   [23DCS012]</td>
+            <td rowspan="3" style="text-align:center;">1</td>
+            <td>Himanshu Choudhary   [23DCS012]</td>
             <td rowspan="3">Ai-Driven GIS Framework for Multi-Hazard Risk Assessment</td>
             <td><a href="https://www.linkedin.com/in/himanshu-choudhary-2b1986289/">LinkedIn</a></td>
             <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
-            <td rowspan="3">2025-26</td>
-            <td rowspan="3">Completed</td>
+            <td rowspan="3">2026-27</td>
+            <td rowspan="3">Ongoing</td>
         </tr>
         <tr>
             <td>Tanishka Khandelwal [23BCS115]</td>
@@ -281,42 +281,46 @@ permalink: /people/
             <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
         </tr>
         <tr>
-            <td>Kunal [22DCS012]</td>
-            <td><a href="https://www.linkedin.com/in/kunal-dhiman-0558b425b">LinkedIn</a></td>
+            <td>Akanksha Kumari [23DCS003]</td>
+            <td><a href="https://www.linkedin.com/in/--akanksha/">LinkedIn</a></td>
             <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
         </tr>
         <tr>
-            <td>Seejal Sood [22DCS025]</td>
-            <td><a href="https://www.linkedin.com/in/seejal-sood-73221325a/">LinkedIn</a></td>
+            <td rowspan="3" style="text-align:center;">2</td>
+            <td>Anshuman Singh Kapoor [23BCS021]</td>
+            <td rowspan="3">Text to SQL for improvement of LLM</td>
+            <td><a href="https://www.linkedin.com/in/anshuman-singh-kapoor/">LinkedIn</a></td>
+            <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
+            <td rowspan="3">2026-27</td>
+            <td rowspan="3">Ongoing</td>
+        </tr>
+        <tr>
+            <td>Himanshu Mahajan [23BCS037]</td>
+            <td><a href="https://www.linkedin.com/in/himanshumhjn/">LinkedIn</a></td>
             <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
         </tr>
         <tr>
-            <td rowspan="5" style="text-align:center;">2</td>
-            <td>Dikshant Kumawat [22BCS038]</td>
-            <td rowspan="5">Graph based Learning for Android Detection via Structural Program Representation</td>
-            <td><a href="https://www.linkedin.com/in/dikshant936/">LinkedIn</a></td>
-            <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
-            <td rowspan="5">2025-26</td>
-            <td rowspan="5">Completed</td>
-        </tr>
-        <tr>
-            <td>Ekansh Mahajan [22BCS040]</td>
-            <td><a href="https://www.linkedin.com/in/ekansh-mahajan-6199ba248/">LinkedIn</a></td>
+            <td>Aayush Sharma [23BCS003]</td>
+            <td><a href="https://www.linkedin.com/in/aayush-sharma-410959348/">LinkedIn</a></td>
             <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
         </tr>
-        <tr>
-            <td>Saksham Salaria [22BCS094]</td>
-            <td><a href="https://www.linkedin.com/in/saksham-salaria-34455125a/">LinkedIn</a></td>
+         <tr>
+            <td rowspan="3" style="text-align:center;">2</td>
+            <td>Akshit Pathania [23BCS018]</td>
+            <td rowspan="3">Hallucination and Mitigation for evidence verifacation  for LLMS</td>
+            <td><a href="https://www.linkedin.com/in/akshit-pathania-62522728b/">LinkedIn</a></td>
             <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
+            <td rowspan="3">2026-27</td>
+            <td rowspan="3">Ongoing</td>
         </tr>
         <tr>
-            <td>Sarthak Pundir [22BCS099]</td>
-            <td><a href="https://www.linkedin.com/in/sheshankkoundal1722/">LinkedIn</a></td>
+            <td>Rajeev Ranjan [23BCS084]</td>
+            <td><a href="https://www.linkedin.com/in/rajeev-ranjan-9305252aa/">LinkedIn</a></td>
             <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
         </tr>
         <tr>
-            <td>Sheshank Koundal [22BCS102]</td>
-            <td><a href="https://www.linkedin.com/in/sheshankkoundal1722/">LinkedIn</a></td> 
+            <td>Abdul Hadi [23BCS126]</td>
+            <td><a href="https://www.linkedin.com/in/hxdi/">LinkedIn</a></td>
             <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
         </tr>
     </tbody>
