@@ -336,6 +336,59 @@ permalink: /people/
         </tr>
     </thead>
     <tbody>
+         <tr>
+            <td rowspan="4" style="text-align:center;">1</td>
+            <td>Sahil Atri   [22BCS091]</td>
+            <td rowspan="4">Adaptive Underwater Image Enhancement Approach for Improving Color Cast and Visibility Degradation</td>
+            <td><a href="https://www.linkedin.com/in/sahil-atri-279940263/">LinkedIn</a></td>
+            <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
+            <td rowspan="4">2025-26</td>
+            <td rowspan="4">Completed</td>
+        </tr>
+        <tr>
+            <td>Shreya Anand [22BCS106]</td>
+            <td><a href="https://www.linkedin.com/in/shreya-anand-2000a4278/">LinkedIn</a></td>
+            <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
+        </tr>
+        <tr>
+            <td>Kunal [22DCS012]</td>
+            <td><a href="https://www.linkedin.com/in/kunal-dhiman-0558b425b">LinkedIn</a></td>
+            <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
+        </tr>
+        <tr>
+            <td>Seejal Sood [22DCS025]</td>
+            <td><a href="https://www.linkedin.com/in/seejal-sood-73221325a/">LinkedIn</a></td>
+            <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
+        </tr>
+        <tr>
+            <td rowspan="5" style="text-align:center;">2</td>
+            <td>Dikshant Kumawat [22BCS038]</td>
+            <td rowspan="5">Graph based Learning for Android Detection via Structural Program Representation</td>
+            <td><a href="https://www.linkedin.com/in/dikshant936/">LinkedIn</a></td>
+            <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
+            <td rowspan="5">2025-26</td>
+            <td rowspan="5">Completed</td>
+        </tr>
+        <tr>
+            <td>Ekansh Mahajan [22BCS040]</td>
+            <td><a href="https://www.linkedin.com/in/ekansh-mahajan-6199ba248/">LinkedIn</a></td>
+            <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
+        </tr>
+        <tr>
+            <td>Saksham Salaria [22BCS094]</td>
+            <td><a href="https://www.linkedin.com/in/saksham-salaria-34455125a/">LinkedIn</a></td>
+            <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
+        </tr>
+        <tr>
+            <td>Sarthak Pundir [22BCS099]</td>
+            <td><a href="https://www.linkedin.com/in/sheshankkoundal1722/">LinkedIn</a></td>
+            <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
+        </tr>
+        <tr>
+            <td>Sheshank Koundal [22BCS102]</td>
+            <td><a href="https://www.linkedin.com/in/sheshankkoundal1722/">LinkedIn</a></td> 
+            <td><a href=" https://nith.ac.in/computer-science-engineering ">NIT Hamirpur</a></td>
+        </tr>
         <tr>
             <td rowspan="2" style="text-align:center;">1</td>
             <td>Tanmay Patel [21DCS001]</td>
