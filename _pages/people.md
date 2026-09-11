@@ -211,7 +211,7 @@ permalink: /people/
             <td>Malika Sood [195562]</td>
             <td>Revolutionizing Tomato Agriculture: Leaf Disease Detection using CNN and its Variants</td>
             <td><a href="http://linkedin.com/in/msood19">LinkedIn</a></td>
-            <td>BNY Mellon</td>
+            <td><a href="https://www.linkedin.com/company/bnyglobal/">BNY Mellon</td>
             <td>Completed</td>
             <td>2024</td>
             <td>Dr. Jyoti Srivastava</td>
