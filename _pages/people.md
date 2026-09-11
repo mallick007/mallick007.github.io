@@ -140,8 +140,8 @@ permalink: /people/
             <td>M.Tech</td>
             <td>Deepanshu [24MCS103]</td>
             <td>LargeScaleImageRetrievalusingMulti-PositiveMulti-NegativeSupervisedHashing</td>
-            <td>-</td>
-            <td>-</td>
+            <td>a href="https://www.linkedin.com/in/deepanshu-bhargav/"</td>
+            <td>Maharshi Dayanand University</td>
             <td>Completed</td>
             <td>2026</td>
             <td>-</td>
