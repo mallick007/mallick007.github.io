@@ -190,8 +190,8 @@ permalink: /people/
             <td>M.Tech</td>
             <td>Atul Sharma [23MCS109]</td>
             <td>Attention based deep learning approach for fingerprint liveness detection</td>
-            <td><a href="https://www.linkedin.com/in/atul-sharma-42bbb42a89/">LinkedIn</a></td>
-            <td>-</td>
+            <td><a href="https://www.linkedin.com/in/atul-sharma-a9ba10110/">LinkedIn</a></td>
+            <td><a href="https://iitr.ac.in/Departments/Computer%20Science%20and%20Engineering%20Department/People/Students/Phd%20list.html">Pursuing PhD from IIT Roorkee</a></td>
             <td>Completed</td>
             <td>2025</td>
             <td>-</td>
