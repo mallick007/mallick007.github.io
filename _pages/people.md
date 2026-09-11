@@ -201,7 +201,7 @@ permalink: /people/
             <td>Sameer Mirza [23MCS120]</td>
             <td>Enhanced Small Object Detection in Aerial Imagery using Deep Cross Block and YOLOv9 Fusion</td>
             <td><a href="https://www.linkedin.com/in/sameermirza25/">LinkedIn</a></td>
-            <td><a href="https://www.linkedin.com/company/audulate/">Audulate</td>
+            <td><a href="https://www.linkedin.com/company/audulate/">Audulate</a></td>
             <td>Completed</td>
             <td>2025</td>
             <td>-</td>
@@ -211,7 +211,7 @@ permalink: /people/
             <td>Malika Sood [195562]</td>
             <td>Revolutionizing Tomato Agriculture: Leaf Disease Detection using CNN and its Variants</td>
             <td><a href="http://linkedin.com/in/msood19">LinkedIn</a></td>
-            <td><a href="https://www.linkedin.com/company/bnyglobal/">BNY Mellon</td>
+            <td><a href="https://www.linkedin.com/company/bnyglobal/">BNY Mellon</a></td>
             <td>Completed</td>
             <td>2024</td>
             <td>Dr. Jyoti Srivastava</td>
@@ -221,7 +221,7 @@ permalink: /people/
             <td>Ajay Kumar [22MCS019]</td>
             <td>Enhancing Hindi Named Entity Recognition using XLM-RoBERTa</td>
             <td><a href="https://www.linkedin.com/in/ajay-kumar-193775244">LinkedIn</a></td>
-            <td><a href="https://www.linkedin.com/company/lloyds-technology-centre-india/">Lloyds Technology Centre India</td>
+            <td><a href="https://www.linkedin.com/company/lloyds-technology-centre-india/">Lloyds Technology Centre India</a></td>
             <td>Completed</td>
             <td>2024</td>
             <td>Dr. Jyoti Srivastava</td>
