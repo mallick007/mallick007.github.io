@@ -14,6 +14,7 @@ redirect_from:
 * Digital image security and analysis, content-based image and video retrieval, computer vision, and machine learning are some of his areas of interest and research and have contributed to and reviewed papers for numerous highly esteemed international conferences and Science Citation Indexed Journals (SCI).
 
 ## Recent News 
+* **[September, 2026]** Organised Smart India Hackathon (Internal) 2026 on 4th and 5th September 2026 at NIT Hamirpur as Single Point of Contact (SPOC).
 * **[March, 2026]** Thrilled to announce that the research work of my M.Tech scholar, Viashali Thakur, titled " PPO-Based Framework for Sequential Underwater Image Enhancement in a Continuous
 Action Space," has been awarded the **Best Paper Award** in  5th IEEE International Conference of Power, Control and Computing Technologies <a href="http://icpc2t.nitrr.ac.in/#/"> ICPC2T 2026</a>.
 * **[March, 2026]** Thrilled to announce that the research work of my M.Tech scholar, Tanmay Patel , titled "Meta-Contrast: Robust Endoscopic Disease Classification via Meta-Reweighted Supervised Contrastive Learning," was **accepted** in  International Conference on Innovations in Computing, Communication, and Sustainable Technologies <a href="https://icicst-2025.netlify.app/">ICICST 2026</a>.
