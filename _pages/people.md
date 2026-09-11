@@ -221,7 +221,7 @@ permalink: /people/
             <td>Ajay Kumar [22MCS019]</td>
             <td>Enhancing Hindi Named Entity Recognition using XLM-RoBERTa</td>
             <td><a href="https://www.linkedin.com/in/ajay-kumar-193775244">LinkedIn</a></td>
-            <td>Netsmartz Academy</td>
+            <td><a href="https://www.linkedin.com/company/lloyds-technology-centre-india/">Lloyds Technology Centre India</td>
             <td>Completed</td>
             <td>2024</td>
             <td>Dr. Jyoti Srivastava</td>
