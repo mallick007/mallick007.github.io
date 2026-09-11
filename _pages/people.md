@@ -102,8 +102,8 @@ permalink: /people/
             <td>M.Tech</td>
             <td>Kunal [21DCS012]</td>
             <td>Solar Energy utilty evaluation</td>
-             <td>-</td>
-            <td>-</td>
+             <td><a href="https://www.linkedin.com/in/kunal-dhiman-0558b425b/">LinkedIn</a></td>  
+            <td>Ongoing</td>
             <td>Ongoing</td>
             <td>2026</td>
             <td>-</td>
