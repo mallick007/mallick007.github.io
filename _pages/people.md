@@ -201,7 +201,7 @@ permalink: /people/
             <td>Sameer Mirza [23MCS120]</td>
             <td>Enhanced Small Object Detection in Aerial Imagery using Deep Cross Block and YOLOv9 Fusion</td>
             <td><a href="https://www.linkedin.com/in/sameermirza25/">LinkedIn</a></td>
-            <td>-</td>
+            <td><a href="https://www.linkedin.com/company/audulate/">Audulate</td>
             <td>Completed</td>
             <td>2025</td>
             <td>-</td>
