@@ -171,7 +171,7 @@ permalink: /people/
             <td>Vaishali Thakur [21DCS021]</td>
             <td>Underwater Image Enhancement using Reinforcement Learning and Physics-Guided Dual-Domain Architectures</td>
             <td><a href="https://www.linkedin.com/in/vaishali2054">LinkedIn</a></td>
-            <td><a href="https://www.linkedin.com/company/atlassian/">Atlassian</td>
+            <td><a href="https://www.linkedin.com/company/atlassian/">Atlassian</a></td>
             <td>Completed</td>
             <td>2026</td>
             <td>-</td>
