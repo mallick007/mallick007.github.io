@@ -151,7 +151,7 @@ permalink: /people/
             <td>Archish [24MCS106]</td>
             <td>Degradation-Adaptive Physics-Guided Latent Diffusion for Zero-Shot Low-Light Image Enhancement</td>
             <td><a href="https://www.linkedin.com/in/archish-k-0408892b3/">LinkedIn</a></td>
-            <td>-</td>
+            <td>NIT Hamirpur</td>
             <td>Completed</td>
             <td>2026</td>
             <td>-</td>
